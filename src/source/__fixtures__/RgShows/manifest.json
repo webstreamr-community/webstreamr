@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "95b0e2c8d0ac76c29a3a96e04b225ed69813589f35092d488de9948f5884bdee": {
+      "file": "95b0e2c8d0ac76c29a3a96e04b225ed69813589f35092d488de9948f5884bdee.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/66732",
+      "legacyFile": "https:api.themoviedb.org3tv66732"
+    },
+    "be05589b220fc01a20639204458876f37aa4dc01347f9a77fe8c8e896fb63f9f": {
+      "file": "be05589b220fc01a20639204458876f37aa4dc01347f9a77fe8c8e896fb63f9f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1054867",
+      "legacyFile": "https:api.themoviedb.org3movie1054867"
+    }
+  },
+  "version": 1
+}

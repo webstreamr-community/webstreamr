@@ -1,0 +1,33 @@
+{
+  "entries": {
+    "456b78d700fa966bb9ea3baf07302ff8a3508e139e85e3f5fb6fc38bbedb24b7": {
+      "file": "456b78d700fa966bb9ea3baf07302ff8a3508e139e85e3f5fb6fc38bbedb24b7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt2085059?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt2085059external_sourceimdb_id"
+    },
+    "5f2a8461a7e8275eae8783b0745b9cde82a22acaabe61ebe56688a7201c33614": {
+      "file": "5f2a8461a7e8275eae8783b0745b9cde82a22acaabe61ebe56688a7201c33614.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt0093058?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt0093058external_sourceimdb_id"
+    },
+    "65216a205d8da651054b989f8250a972bd3a822d2c94cda988cbec3f3690cdf7": {
+      "file": "65216a205d8da651054b989f8250a972bd3a822d2c94cda988cbec3f3690cdf7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/600",
+      "legacyFile": "https:api.themoviedb.org3movie600"
+    },
+    "be372384342836b8a5b0c4a68827802866a1ddf963d682497a398b74b28be573": {
+      "file": "be372384342836b8a5b0c4a68827802866a1ddf963d682497a398b74b28be573.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/42009",
+      "legacyFile": "https:api.themoviedb.org3tv42009"
+    }
+  },
+  "version": 1
+}

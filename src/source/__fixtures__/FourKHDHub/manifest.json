@@ -1,0 +1,726 @@
+{
+  "entries": {
+    "01b9883fb349d3b63225e2434b6f9f66b7c9800d49105c6afd718d3b45bbfb90": {
+      "file": "01b9883fb349d3b63225e2434b6f9f66b7c9800d49105c6afd718d3b45bbfb90.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/931944",
+      "legacyFile": "https:api.themoviedb.org3movie931944"
+    },
+    "062aade227690927020289fca5caafcdc41ddd9dbe252b7665c164948073a586": {
+      "file": "062aade227690927020289fca5caafcdc41ddd9dbe252b7665c164948073a586.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnYzAvaFl0dk5nekxtYmg3NFhVdkdHb2NqT0ZFNFlOWGo1bkpnb0hvWXNhMmc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnYzAvaFl0dk5nekxtYmg3NFhVdkdHb2NqT0ZFNFlOWGo1bkpnb0hvWXNhMmc9PQ"
+    },
+    "0981ef70682239b05ef0cb1479b10a7179154649db5f52183c31277278f0c192": {
+      "file": "0981ef70682239b05ef0cb1479b10a7179154649db5f52183c31277278f0c192.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1948",
+      "legacyFile": "https:api.themoviedb.org3movie1948"
+    },
+    "0a50c7b69f81801a91d1b4c482d6adda7781353a22a492622da33a987de49ba1": {
+      "file": "0a50c7b69f81801a91d1b4c482d6adda7781353a22a492622da33a987de49ba1.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZU1CS0c1cUhBKzFkVk9jckU1YXlFbmc1WnhMYzFJTVVMR0Nkcm1DWHhaU1E9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZU1CS0c1cUhBKzFkVk9jckU1YXlFbmc1WnhMYzFJTVVMR0Nkcm1DWHhaU1E9PQ"
+    },
+    "0a555dadd9ef3f0bee9b0a2f1076365cb05e1394303808d36232e717bb5239c9": {
+      "file": "0a555dadd9ef3f0bee9b0a2f1076365cb05e1394303808d36232e717bb5239c9.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZFFJbHRteXpZYkMrNmNBbTBMMWxPanRJcWcycmRxd2JoWGthR1dodVova1E9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZFFJbHRteXpZYkMrNmNBbTBMMWxPanRJcWcycmRxd2JoWGthR1dodVova1E9PQ"
+    },
+    "0b5bb0f2b937e2c9034319c35fc1b33a80a4f59a389fd5de4cbfc9c519908217": {
+      "file": "0b5bb0f2b937e2c9034319c35fc1b33a80a4f59a389fd5de4cbfc9c519908217.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZEd4aXVxcC9RS1lySFcwTTdlemFSOFZtL0xNYllnUW1pV0tQMnN6ZTI1Znc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZEd4aXVxcC9RS1lySFcwTTdlemFSOFZtL0xNYllnUW1pV0tQMnN6ZTI1Znc9PQ"
+    },
+    "1033aacd5572f76b3eacb722eb6e6494fb242e41e0f7fcdf2fcd7f126f3709af": {
+      "file": "1033aacd5572f76b3eacb722eb6e6494fb242e41e0f7fcdf2fcd7f126f3709af.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZjJSNnNzZGFkdnBoMHV6VmZsMjhjQTI3dmJlRGZ1VUdSVmVSQXZQY24rVGc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZjJSNnNzZGFkdnBoMHV6VmZsMjhjQTI3dmJlRGZ1VUdSVmVSQXZQY24rVGc9PQ"
+    },
+    "13e567321f80e487414a0ba665861a7939094ae6bdd4f98d4f8be4fa20c30501": {
+      "file": "13e567321f80e487414a0ba665861a7939094ae6bdd4f98d4f8be4fa20c30501.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/128868",
+      "legacyFile": "https:api.themoviedb.org3movie128868"
+    },
+    "18535a422d4965c13cf3806f8565593f42907c8e339af474f3e4a5bffce4cccc": {
+      "file": "18535a422d4965c13cf3806f8565593f42907c8e339af474f3e4a5bffce4cccc.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/70523",
+      "legacyFile": "https:api.themoviedb.org3tv70523"
+    },
+    "1904927379ef6017240ea87d0a6c586f349db8e9791529a529fd4123a06be12c": {
+      "file": "1904927379ef6017240ea87d0a6c586f349db8e9791529a529fd4123a06be12c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY3cwT1lKQWd3WWNPRVJuMDFGQVVxK1oxZUhVNVB0bWVURi8xWjg0RXJkelE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY3cwT1lKQWd3WWNPRVJuMDFGQVVxK1oxZUhVNVB0bWVURi8xWjg0RXJkelE9PQ"
+    },
+    "1d65b060cd2f3a9177e4a041c831fecd30149c7b678fff7cc46c995777cc0a7d": {
+      "file": "1d65b060cd2f3a9177e4a041c831fecd30149c7b678fff7cc46c995777cc0a7d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/128875",
+      "legacyFile": "https:api.themoviedb.org3movie128875"
+    },
+    "1d9c86e43e8688cae78a6aac7ebc6180d7fd7853a7580857b4ca2cc554134269": {
+      "file": "1d9c86e43e8688cae78a6aac7ebc6180d7fd7853a7580857b4ca2cc554134269.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/230923",
+      "legacyFile": "https:api.themoviedb.org3tv230923"
+    },
+    "1e0f6bd84512000f258427d3710736d68ac51a8c2f410d53dd378a61fb0ef2f8": {
+      "file": "1e0f6bd84512000f258427d3710736d68ac51a8c2f410d53dd378a61fb0ef2f8.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZjYvZ0JpdUJzeC9PM0kzUlFyTnUzWFp4c1NaY2I2N0IwY1N1QXRQOUdhQXc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZjYvZ0JpdUJzeC9PM0kzUlFyTnUzWFp4c1NaY2I2N0IwY1N1QXRQOUdhQXc9PQ"
+    },
+    "1f8fb85c24d21fea4dcfa3be990645dc38bfde859a440b377c744213d31054bc": {
+      "file": "1f8fb85c24d21fea4dcfa3be990645dc38bfde859a440b377c744213d31054bc.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZHdxQ0sraW5YYWt4OE03M1dXdGVmdTNzeDNkck03cHlmQXNhaW5ETlZRQmc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZHdxQ0sraW5YYWt4OE03M1dXdGVmdTNzeDNkck03cHlmQXNhaW5ETlZRQmc9PQ"
+    },
+    "25abc8beeb6e302cefe0fab39d373a2abc649067ab91612c093d50941adbcf3a": {
+      "file": "25abc8beeb6e302cefe0fab39d373a2abc649067ab91612c093d50941adbcf3a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2xWckJZdFpveEp4enhhYUpMc2lMSThGNithRjN2OW5QOWlXYzcyQWZrQUE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2xWckJZdFpveEp4enhhYUpMc2lMSThGNithRjN2OW5QOWlXYzcyQWZrQUE9PQ"
+    },
+    "263047d24558ee140231ff9717ad37b951a3574278bd2761fb8940b0b796d2dc": {
+      "file": "263047d24558ee140231ff9717ad37b951a3574278bd2761fb8940b0b796d2dc.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=F1",
+      "legacyFile": "https:4khdhub.dadsF1"
+    },
+    "27fb40f3564e7d9f790ec302d2c31ad4f63bc1bc663307c379d02f74d2e124f9": {
+      "file": "27fb40f3564e7d9f790ec302d2c31ad4f63bc1bc663307c379d02f74d2e124f9.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2pVcno4NHlsN1dpT3IweE1QMUh6cmcxTjdGVDRGcVNzZ0FscWg1cDgvRmc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2pVcno4NHlsN1dpT3IweE1QMUh6cmcxTjdGVDRGcVNzZ0FscWg1cDgvRmc9PQ"
+    },
+    "2bfbfbcc6c784c561129f587abc762491ec3c0a9a301dc054c2663852b7c95ad": {
+      "file": "2bfbfbcc6c784c561129f587abc762491ec3c0a9a301dc054c2663852b7c95ad.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Dark",
+      "legacyFile": "https:4khdhub.dadsDark"
+    },
+    "2c02518d76c3644511114e42972732203748e76d9003b4f36fef6077b348c1cf": {
+      "file": "2c02518d76c3644511114e42972732203748e76d9003b4f36fef6077b348c1cf.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/dexter-resurrection-series-2297/",
+      "legacyFile": "https:4khdhub.daddexter-resurrection-series-2297"
+    },
+    "2f1977d913b1b00ab386932ceca18ebb27cddc258e2d653a13e9c9a91c4aac28": {
+      "file": "2f1977d913b1b00ab386932ceca18ebb27cddc258e2d653a13e9c9a91c4aac28.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZWtHY3ZhWlMrdTR3QXhRVFJKZElqNWJ2Tlc4WnRhM3VNY3Q0dEprcDdrcFE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZWtHY3ZhWlMrdTR3QXhRVFJKZElqNWJ2Tlc4WnRhM3VNY3Q0dEprcDdrcFE9PQ"
+    },
+    "30bdbdc49ba0ebc4e8b84809d846d1afc4e88ec33a7ab274be5ef9cc5368f2c3": {
+      "file": "30bdbdc49ba0ebc4e8b84809d846d1afc4e88ec33a7ab274be5ef9cc5368f2c3.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/299534",
+      "legacyFile": "https:api.themoviedb.org3movie299534"
+    },
+    "3358f9ce873e2caa6fb2bb3edf6a1a0d4b640ac87f368894ce491726a601e3ee": {
+      "file": "3358f9ce873e2caa6fb2bb3edf6a1a0d4b640ac87f368894ce491726a601e3ee.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZXBDdkJVbk1teU1tWTd5eXN0S1FrQWJFUWpZTlFnY21pMktwaTFYTW1pNHc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZXBDdkJVbk1teU1tWTd5eXN0S1FrQWJFUWpZTlFnY21pMktwaTFYTW1pNHc9PQ"
+    },
+    "346e7a2f1d249993aa6c06562152d5b052aadfa3921744f5e97131840d54e097": {
+      "file": "346e7a2f1d249993aa6c06562152d5b052aadfa3921744f5e97131840d54e097.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnYzFoNWxMUDhmTGtQTmNWd2VlZE9DT1BxU2N4S1BCRkZLUjVXV09mOVk4U2c9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnYzFoNWxMUDhmTGtQTmNWd2VlZE9DT1BxU2N4S1BCRkZLUjVXV09mOVk4U2c9PQ"
+    },
+    "3497fafea09aa601f19d894dd703bb164377d268256c26ca1856ea3af0adff78": {
+      "file": "3497fafea09aa601f19d894dd703bb164377d268256c26ca1856ea3af0adff78.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnYzB1SWpwd1Rib1YyMy94TnFiMkRpc2FHdStYYnJPMlBVTHNyOVByK3NuVmc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnYzB1SWpwd1Rib1YyMy94TnFiMkRpc2FHdStYYnJPMlBVTHNyOVByK3NuVmc9PQ"
+    },
+    "35064c75583f3c026594c42c3e50360811be1141ed6ca2ef91ad437ebfb2ac8f": {
+      "file": "35064c75583f3c026594c42c3e50360811be1141ed6ca2ef91ad437ebfb2ac8f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Dust%20Bunny",
+      "legacyFile": "https:4khdhub.dadsDustpercent20Bunny"
+    },
+    "3604844a23e92646d49e63a6e15a23cee9db0ee3cbc1a8dc6c3b90007dde2260": {
+      "file": "3604844a23e92646d49e63a6e15a23cee9db0ee3cbc1a8dc6c3b90007dde2260.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY3NEQURMZVFqaGY0TTk5SEl2cS9DNmZjVGV0QmV1KzRXbGU0WDRpUVNpVkE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY3NEQURMZVFqaGY0TTk5SEl2cS9DNmZjVGV0QmV1KzRXbGU0WDRpUVNpVkE9PQ"
+    },
+    "386893592f8bf897be8905f941477c841deea3f476992f8adf066f984102e7ef": {
+      "file": "386893592f8bf897be8905f941477c841deea3f476992f8adf066f984102e7ef.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvblZxSithZnFJTFdic1JwYUxHVkpZZ0RTMXdWbE1jKzJIMlJRamZBTElEb05iL1VmWTNaWnlWSXpsdHAwTk1NdWc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvblZxSithZnFJTFdic1JwYUxHVkpZZ0RTMXdWbE1jKzJIMlJRamZBTElEb05iL1VmWTNaWnlWSXpsdHAwTk1NdWc9PQ"
+    },
+    "39ea5dfb4f8b068bedbcf6cd90ead1781a26cc3a66228e1a78233be740802c1e": {
+      "file": "39ea5dfb4f8b068bedbcf6cd90ead1781a26cc3a66228e1a78233be740802c1e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZTlBbmZEL1hOS09XcDZXQzlkemp3SDVwOUxYMjYreWcxSC94S3BLWThIVVE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZTlBbmZEL1hOS09XcDZXQzlkemp3SDVwOUxYMjYreWcxSC94S3BLWThIVVE9PQ"
+    },
+    "44a447f9a3ab735862543edc8017dc3d94feace11ae07d0c90584ca933328ca6": {
+      "file": "44a447f9a3ab735862543edc8017dc3d94feace11ae07d0c90584ca933328ca6.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZnhXNXRoSmlVK1g3Zk9aN1pMNEFZSEZ6SzZpTysvcGZac0o4dHpKeERDN3c9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZnhXNXRoSmlVK1g3Zk9aN1pMNEFZSEZ6SzZpTysvcGZac0o4dHpKeERDN3c9PQ"
+    },
+    "461d8d693ad1f6fa3ed0627bb039e50eccd0d893ce13255a16f9256192c1dc48": {
+      "file": "461d8d693ad1f6fa3ed0627bb039e50eccd0d893ce13255a16f9256192c1dc48.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://4khdhub.dad/",
+      "legacyFile": "head-https:4khdhub.dad"
+    },
+    "494f541f787c3acef051ac3303454bd78f72d4116b48e428e9cd4d6a048c89ac": {
+      "file": "494f541f787c3acef051ac3303454bd78f72d4116b48e428e9cd4d6a048c89ac.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1061474",
+      "legacyFile": "https:api.themoviedb.org3movie1061474"
+    },
+    "4ccaa75d417958b412cb92e0aa0eb33dc1c04083e1d3cab4eb6774ef07445dd9": {
+      "file": "4ccaa75d417958b412cb92e0aa0eb33dc1c04083e1d3cab4eb6774ef07445dd9.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2hqSGo5RGg0N1M5Uk55SU55bzNVMFlmUk45ZzlDOFJHNzJWdWtXdm14VlE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2hqSGo5RGg0N1M5Uk55SU55bzNVMFlmUk45ZzlDOFJHNzJWdWtXdm14VlE9PQ"
+    },
+    "4e38f79b5153824115601b3ef8fa2a41863085a58cdee397617b7768d64e2a64": {
+      "file": "4e38f79b5153824115601b3ef8fa2a41863085a58cdee397617b7768d64e2a64.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/dexter-original-sin-series-336/",
+      "legacyFile": "https:4khdhub.daddexter-original-sin-series-336"
+    },
+    "518e43a22583be19d12f6b9800364030c45cdfbbbb44b62ba1257cad5a8aa89d": {
+      "file": "518e43a22583be19d12f6b9800364030c45cdfbbbb44b62ba1257cad5a8aa89d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnYy9lT2xJRmxnNWdqbTY5SXFDUkVwSE1XNzVpTVhEWlNoelBwV2lSaUlSQXc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnYy9lT2xJRmxnNWdqbTY5SXFDUkVwSE1XNzVpTVhEWlNoelBwV2lSaUlSQXc9PQ"
+    },
+    "5407faf75a4a8eefaae42d6725ea5d981becf9fd4596046239922efc697287b9": {
+      "file": "5407faf75a4a8eefaae42d6725ea5d981becf9fd4596046239922efc697287b9.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/crayon-shin-chan-action-mask-vs-leotard-devil-movie-2971/",
+      "legacyFile": "https:4khdhub.dadcrayon-shin-chan-action-mask-vs-leotard-devil-movie-2971"
+    },
+    "59f661e4cb97bb322fd3e1d619c883711eea3962183600c619a82e2a3d3cb2f6": {
+      "file": "59f661e4cb97bb322fd3e1d619c883711eea3962183600c619a82e2a3d3cb2f6.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/avengers-endgame-marvel-phase-3-movie-215/",
+      "legacyFile": "https:4khdhub.dadavengers-endgame-marvel-phase-3-movie-215"
+    },
+    "5b83654acf2786f2ae590e4308daaf2a78cfcdf1ed1ebbb9e73c611c01b31384": {
+      "file": "5b83654acf2786f2ae590e4308daaf2a78cfcdf1ed1ebbb9e73c611c01b31384.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Crayon%20Shin-chan%3A%20Dengeki!%20Buta%20no%20Hizume%20Daisakusen",
+      "legacyFile": "https:4khdhub.dadsCrayonpercent20Shin-chanpercent3Apercent20Dengeki!percent20Butapercent20nopercent20Hizumepercent20Daisakusen"
+    },
+    "5dff1736b2b97dc6e95495be2b08f37614384bd5e16847f535768ba83c0d9209": {
+      "file": "5dff1736b2b97dc6e95495be2b08f37614384bd5e16847f535768ba83c0d9209.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZGpvTGdsN3d6UHQvKzV1ZHVIZHBjL0tORmQzYmJCK01Hc0M5VFVmMExPTmc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZGpvTGdsN3d6UHQvKzV1ZHVIZHBjL0tORmQzYmJCK01Hc0M5VFVmMExPTmc9PQ"
+    },
+    "5ea0b806908a81e39ccf260f7d22a7eb5a5649b1f1a47b5dc9537d2af4434a61": {
+      "file": "5ea0b806908a81e39ccf260f7d22a7eb5a5649b1f1a47b5dc9537d2af4434a61.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZXhIRWplczRhaCt2MEZHZStPc2pkTDJYbmhRSGJINmlHNjNGd01LV2VlMUE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZXhIRWplczRhaCt2MEZHZStPc2pkTDJYbmhRSGJINmlHNjNGd01LV2VlMUE9PQ"
+    },
+    "5feab9be58ed2cc82039c02a00bd18b209adf7342a7d0dca395012ccd9396c5a": {
+      "file": "5feab9be58ed2cc82039c02a00bd18b209adf7342a7d0dca395012ccd9396c5a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZG9BY0w2QVlJVGZBdG8wMDVTYTRkNmpyUmpsL25EU1c5eXdua1FneSttU0E9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZG9BY0w2QVlJVGZBdG8wMDVTYTRkNmpyUmpsL25EU1c5eXdua1FneSttU0E9PQ"
+    },
+    "636d42bf99a03ce01600bb1b57cf653ef7e9aed1a3c4480a97f4c0b488bf352c": {
+      "file": "636d42bf99a03ce01600bb1b57cf653ef7e9aed1a3c4480a97f4c0b488bf352c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZHVrUTdIeVkzVlNrbXJCZmZuWkd3SVhld0lBc1VzRWQySkhSZU5yVzFGeEE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZHVrUTdIeVkzVlNrbXJCZmZuWkd3SVhld0lBc1VzRWQySkhSZU5yVzFGeEE9PQ"
+    },
+    "640edb7e14f4a200ec69889115823f2580a8546863e04512a7559854bb4c3ad3": {
+      "file": "640edb7e14f4a200ec69889115823f2580a8546863e04512a7559854bb4c3ad3.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/the-tiger-aka-the-tank-movie-5181/",
+      "legacyFile": "https:4khdhub.dadthe-tiger-aka-the-tank-movie-5181"
+    },
+    "64198cd787628e22992776e8bc5e281287c7a326b1feb970b7af4b96a8461e56": {
+      "file": "64198cd787628e22992776e8bc5e281287c7a326b1feb970b7af4b96a8461e56.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/219937",
+      "legacyFile": "https:api.themoviedb.org3tv219937"
+    },
+    "64bab31eb84f746d22d2ebad6cdbf54a6c679a78f8994854169c85ece1868ba4": {
+      "file": "64bab31eb84f746d22d2ebad6cdbf54a6c679a78f8994854169c85ece1868ba4.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Crayon%20Shin-chan%3A%20Action%20Mask%20vs.%20Leotard%20Devil",
+      "legacyFile": "https:4khdhub.dadsCrayonpercent20Shin-chanpercent3Apercent20Actionpercent20Maskpercent20vs.percent20Leotardpercent20Devil"
+    },
+    "6505d490e95b31d0d6ac4a2e20e6916be00916d30b5a28378dc7505f1950f06d": {
+      "file": "6505d490e95b31d0d6ac4a2e20e6916be00916d30b5a28378dc7505f1950f06d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Avengers%3A%20Endgame",
+      "legacyFile": "https:4khdhub.dadsAvengerspercent3Apercent20Endgame"
+    },
+    "67f29b29a6e9e1dee9095167b8b92e7366da55b225b2ba8ee491cc9ff9adc5ac": {
+      "file": "67f29b29a6e9e1dee9095167b8b92e7366da55b225b2ba8ee491cc9ff9adc5ac.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZlh2MU9QRmkxYzRSLzU0T1BWZVIrNWpQbnFMdXFRVVoydUlJd1IxY3JPSWc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZlh2MU9QRmkxYzRSLzU0T1BWZVIrNWpQbnFMdXFRVVoydUlJd1IxY3JPSWc9PQ"
+    },
+    "6822779fb2f4ca3bfbda43abb443f73f60a075c835e6084cbcce94776803d34a": {
+      "file": "6822779fb2f4ca3bfbda43abb443f73f60a075c835e6084cbcce94776803d34a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZTNINlIvTlIweE9JY1V6b0Y2TjdlVDVyUGl3cjc3Y3NyU1pHaXY5bEg4V0E9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZTNINlIvTlIweE9JY1V6b0Y2TjdlVDVyUGl3cjc3Y3NyU1pHaXY5bEg4V0E9PQ"
+    },
+    "685de578b38ae87c9da89d54bc8507350e8c1d30b721713bcedd62c4cc112cc3": {
+      "file": "685de578b38ae87c9da89d54bc8507350e8c1d30b721713bcedd62c4cc112cc3.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZm5HOEJTSS9QM2ZxUkZpNVVBaFEranc0QjZ5eW4xbGU5bi85L2dXVVEvNUE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZm5HOEJTSS9QM2ZxUkZpNVVBaFEranc0QjZ5eW4xbGU5bi85L2dXVVEvNUE9PQ"
+    },
+    "6c8f340460f5f89ed8b93336fe42b1e13e462ae5c29b28e3a0d857e513a2483c": {
+      "file": "6c8f340460f5f89ed8b93336fe42b1e13e462ae5c29b28e3a0d857e513a2483c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Dexter%3A%20Resurrection",
+      "legacyFile": "https:4khdhub.dadsDexterpercent3Apercent20Resurrection"
+    },
+    "6e496c02140f31d87e0ad9d3bcb9e281ee9edcdf6a6d21d74ae6c48215f43038": {
+      "file": "6e496c02140f31d87e0ad9d3bcb9e281ee9edcdf6a6d21d74ae6c48215f43038.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY0s4NU92RnhyZFZKMmd4a3FlaTRLU1l4dVQ2YlltT3lmK2haNjRFRjhZU1E9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY0s4NU92RnhyZFZKMmd4a3FlaTRLU1l4dVQ2YlltT3lmK2haNjRFRjhZU1E9PQ"
+    },
+    "6e6d87e1470fa26adbc8b13e4c9726d2627cd79238e8b2e8476618499b6c934a": {
+      "file": "6e6d87e1470fa26adbc8b13e4c9726d2627cd79238e8b2e8476618499b6c934a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvblZxSithZnFJTFdic1JwYUxHVkpZanB0K1l2RFBwbmtYNGJFYmRMbGJvMWVSTktjMUVmK2wrbEVxcUhKU0Zjb3c9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvblZxSithZnFJTFdic1JwYUxHVkpZanB0K1l2RFBwbmtYNGJFYmRMbGJvMWVSTktjMUVmK2wrbEVxcUhKU0Zjb3c9PQ"
+    },
+    "711d73bd44c4b1112f6cf1239ccceaaba8b99038431e6ce8df629071ab038f38": {
+      "file": "711d73bd44c4b1112f6cf1239ccceaaba8b99038431e6ce8df629071ab038f38.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/stranger-things-series-414/",
+      "legacyFile": "https:4khdhub.dadstranger-things-series-414"
+    },
+    "71763276d0b0cade530260603f4d784a3a805dce710a41e2e8eaba05f572468f": {
+      "file": "71763276d0b0cade530260603f4d784a3a805dce710a41e2e8eaba05f572468f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1043197",
+      "legacyFile": "https:api.themoviedb.org3movie1043197"
+    },
+    "75a2f144cece54d6e27a776256d2699f0a7837af2d5dbf9fe238570a36b5f52a": {
+      "file": "75a2f144cece54d6e27a776256d2699f0a7837af2d5dbf9fe238570a36b5f52a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZGhHSjU0cG1iYklydGpIRUM1M2dCNk1tVGNiY1daTS9VVDErcU4rczVodnc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZGhHSjU0cG1iYklydGpIRUM1M2dCNk1tVGNiY1daTS9VVDErcU4rczVodnc9PQ"
+    },
+    "7a43020012b5d31269fb4803efb4d3fbbf98e4e26c743d19bc852f195b41ec9c": {
+      "file": "7a43020012b5d31269fb4803efb4d3fbbf98e4e26c743d19bc852f195b41ec9c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZW94dUkvNytRKzdleldlUm5BK3I3TEdyVnYrTklhOGZwVkJFdGdmSkUzZ2c9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZW94dUkvNytRKzdleldlUm5BK3I3TEdyVnYrTklhOGZwVkJFdGdmSkUzZ2c9PQ"
+    },
+    "7fc73c638cc3186fe663bf91721239ba56ceb0d693a5c134cf989d96b16ff0b8": {
+      "file": "7fc73c638cc3186fe663bf91721239ba56ceb0d693a5c134cf989d96b16ff0b8.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/superman-imax-movie-2998/",
+      "legacyFile": "https:4khdhub.dadsuperman-imax-movie-2998"
+    },
+    "8182924fb4945bb94483a68cd5a8ae50fb3a5d3995073d4234280ec6112b2d4e": {
+      "file": "8182924fb4945bb94483a68cd5a8ae50fb3a5d3995073d4234280ec6112b2d4e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2tKZDc0dnRSNFhGSTVnSHFmVkZraGI5RTFuZm9VSWlNZ0VnczlVcmdmUHc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2tKZDc0dnRSNFhGSTVnSHFmVkZraGI5RTFuZm9VSWlNZ0VnczlVcmdmUHc9PQ"
+    },
+    "81ec87185da309c58960242cd0b75f6ca81ab87ee07a87c44f32ffa70bbedec9": {
+      "file": "81ec87185da309c58960242cd0b75f6ca81ab87ee07a87c44f32ffa70bbedec9.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZGFKN0Q0dzJvcEhaNVA5Ylo0RmN5ZXd3Z3U0OVVqR3BSZlMxQm9RbGFvWVE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZGFKN0Q0dzJvcEhaNVA5Ylo0RmN5ZXd3Z3U0OVVqR3BSZlMxQm9RbGFvWVE9PQ"
+    },
+    "84523108347443ea891929746714b729313d33df6f35546ca39b8e18c626f71f": {
+      "file": "84523108347443ea891929746714b729313d33df6f35546ca39b8e18c626f71f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZTN3cCswY3l5cHBEcy8yTE1xblc5OGwrS3N3akN1Vjl6UW1vSTBiajRHRWc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZTN3cCswY3l5cHBEcy8yTE1xblc5OGwrS3N3akN1Vjl6UW1vSTBiajRHRWc9PQ"
+    },
+    "8555da48ef806225c086d5b792e7e63f8d2166ba4b5bd7bfc2919d45a8735923": {
+      "file": "8555da48ef806225c086d5b792e7e63f8d2166ba4b5bd7bfc2919d45a8735923.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZHZmb1A2cEE5UVBwZXAwTUdPVEFSZDZnRGxvTk9VV2pISTUvZGprZUswSXc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZHZmb1A2cEE5UVBwZXAwTUdPVEFSZDZnRGxvTk9VV2pISTUvZGprZUswSXc9PQ"
+    },
+    "87803bd532432a83951ef4e1a38348bb2b7b556c19367549014a9126104490f1": {
+      "file": "87803bd532432a83951ef4e1a38348bb2b7b556c19367549014a9126104490f1.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/dust-bunny-movie-5300/",
+      "legacyFile": "https:4khdhub.daddust-bunny-movie-5300"
+    },
+    "87c2d61086a024ce45e6df42695c4ba8d4e4489091d0e89c7a448f39e5e0a34d": {
+      "file": "87c2d61086a024ce45e6df42695c4ba8d4e4489091d0e89c7a448f39e5e0a34d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/259909",
+      "legacyFile": "https:api.themoviedb.org3tv259909"
+    },
+    "882df69cb6eed3d8eac59353d30c09f8b7003f316e62dc9c9a1ec8dc3d38377b": {
+      "file": "882df69cb6eed3d8eac59353d30c09f8b7003f316e62dc9c9a1ec8dc3d38377b.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/911430",
+      "legacyFile": "https:api.themoviedb.org3movie911430"
+    },
+    "89907a7d03371f3dbfdde5218936be0153715e56585f62edcc1af601a775fc8c": {
+      "file": "89907a7d03371f3dbfdde5218936be0153715e56585f62edcc1af601a775fc8c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZkVTNkJWaEhDVDhPMjgyQWRoeng5NzRoNFp1YzR2WGhUTjg1cmNNcGdFNlE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZkVTNkJWaEhDVDhPMjgyQWRoeng5NzRoNFp1YzR2WGhUTjg1cmNNcGdFNlE9PQ"
+    },
+    "8bfec03049f3646e9293636332acd1ba82a842e0f05c965d297cee7c31af66de": {
+      "file": "8bfec03049f3646e9293636332acd1ba82a842e0f05c965d297cee7c31af66de.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZmcxUU1sNFJ5WFFaZW1GVWJvemV1ZUFvQTJYRU1yQ1E3YUhiNlRweEhHZmc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZmcxUU1sNFJ5WFFaZW1GVWJvemV1ZUFvQTJYRU1yQ1E3YUhiNlRweEhHZmc9PQ"
+    },
+    "8d60d0cd0a5b3b84588898a227b4dddd58e25c32514af21d0beee62648b15323": {
+      "file": "8d60d0cd0a5b3b84588898a227b4dddd58e25c32514af21d0beee62648b15323.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2ZBZ2RIRTgwK1ljYkZ1dFkxRU5QRFphN3lqN25wNWN0cGsxYklCNkFwc3c9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2ZBZ2RIRTgwK1ljYkZ1dFkxRU5QRFphN3lqN25wNWN0cGsxYklCNkFwc3c9PQ"
+    },
+    "8d7cd05613929f18f00fd5825dbdf7dece7f9b7a594cd2ac6396d9c7861ae4a7": {
+      "file": "8d7cd05613929f18f00fd5825dbdf7dece7f9b7a594cd2ac6396d9c7861ae4a7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZmFZZ2pKL2Rxb2pJQU9aU2JVdWtMVEp1VjQ4N3NXMTA3RTMrYjhuaG9sbkE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZmFZZ2pKL2Rxb2pJQU9aU2JVdWtMVEp1VjQ4N3NXMTA3RTMrYjhuaG9sbkE9PQ"
+    },
+    "8e9a347e559c7fb7e7e10c9baceeaf8593fa61b9dc61784c065178b301ed849e": {
+      "file": "8e9a347e559c7fb7e7e10c9baceeaf8593fa61b9dc61784c065178b301ed849e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/crank-movie-1745/",
+      "legacyFile": "https:4khdhub.dadcrank-movie-1745"
+    },
+    "95b0e2c8d0ac76c29a3a96e04b225ed69813589f35092d488de9948f5884bdee": {
+      "file": "95b0e2c8d0ac76c29a3a96e04b225ed69813589f35092d488de9948f5884bdee.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/66732",
+      "legacyFile": "https:api.themoviedb.org3tv66732"
+    },
+    "9a5f057402a0099762430ca9ff5c7beaeb677a51b4d9b81a053d99e3c8a14591": {
+      "file": "9a5f057402a0099762430ca9ff5c7beaeb677a51b4d9b81a053d99e3c8a14591.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZlZ5VS8vMGIwRk90a1htbUlCTmRtdUJGZ01wUmtxcXVVNDFDejl0d0pQZVE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZlZ5VS8vMGIwRk90a1htbUlCTmRtdUJGZ01wUmtxcXVVNDFDejl0d0pQZVE9PQ"
+    },
+    "9b64eb7acebd6a3d3326c59b773f6c7de0832ff6a66b6ec55e8cccaffc0d1d6e": {
+      "file": "9b64eb7acebd6a3d3326c59b773f6c7de0832ff6a66b6ec55e8cccaffc0d1d6e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2pDb0dObmUxY1JKOTVMUzhtVC9EVkFNaWpUTHRnZnhjRXgwUlJmWEtzYWc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2pDb0dObmUxY1JKOTVMUzhtVC9EVkFNaWpUTHRnZnhjRXgwUlJmWEtzYWc9PQ"
+    },
+    "a6715ff9a06adc0ec7223ff354b31b0f203ff52a7a27a0f4e5b7c196e5350bfa": {
+      "file": "a6715ff9a06adc0ec7223ff354b31b0f203ff52a7a27a0f4e5b7c196e5350bfa.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1252037",
+      "legacyFile": "https:api.themoviedb.org3movie1252037"
+    },
+    "acafcc54edacfd64207431894f8303ac4d1c36d28c0e94536c31b64122a2c99f": {
+      "file": "acafcc54edacfd64207431894f8303ac4d1c36d28c0e94536c31b64122a2c99f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY0xFcnFERGNvUE0vbnBNMWk0NFh4Z1ArTTYzTnBaQlhrZHFZQkJuVllQenc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY0xFcnFERGNvUE0vbnBNMWk0NFh4Z1ArTTYzTnBaQlhrZHFZQkJuVllQenc9PQ"
+    },
+    "b454657a4ce36dcb462c3117607021f284fe24db49bf3b77c58fed0ca08018fc": {
+      "file": "b454657a4ce36dcb462c3117607021f284fe24db49bf3b77c58fed0ca08018fc.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY1dGUnN1QjNPT2lzSVM4dldZOVpVamJuVW9PbFIvbUd1YVVmdW9PdDVNdVE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY1dGUnN1QjNPT2lzSVM4dldZOVpVamJuVW9PbFIvbUd1YVVmdW9PdDVNdVE9PQ"
+    },
+    "b52fde93e7bbc1067345115c57666bbe96c589cc10c7902f49f663c8446bffac": {
+      "file": "b52fde93e7bbc1067345115c57666bbe96c589cc10c7902f49f663c8446bffac.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvblZxSithZnFJTFdic1JwYUxHVkpZaUVQejIwcTFybnQ0aUk4TXJTL1BjNTdhWnpaMVJ1SFRwTlFpUmcwZGpjWnc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvblZxSithZnFJTFdic1JwYUxHVkpZaUVQejIwcTFybnQ0aUk4TXJTL1BjNTdhWnpaMVJ1SFRwTlFpUmcwZGpjWnc9PQ"
+    },
+    "b7b2bda352eb58840c858e13d43598852515008446edb6866512f7a23985f346": {
+      "file": "b7b2bda352eb58840c858e13d43598852515008446edb6866512f7a23985f346.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZHQzc3BGWTRjK0ZDU0hrZ0VkYVlZc0VxbklBd3Y1Nklpd2NPaU9XSjQwdXc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZHQzc3BGWTRjK0ZDU0hrZ0VkYVlZc0VxbklBd3Y1Nklpd2NPaU9XSjQwdXc9PQ"
+    },
+    "ba819024dfc774ba0289b0a091809d9e83dca74b156807368fe17b332883f094": {
+      "file": "ba819024dfc774ba0289b0a091809d9e83dca74b156807368fe17b332883f094.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Lovely%20Runner",
+      "legacyFile": "https:4khdhub.dadsLovelypercent20Runner"
+    },
+    "bb6f63f78f33fd967051469ef10d7424a2ffd31c75eba0e4507830022e1497ff": {
+      "file": "bb6f63f78f33fd967051469ef10d7424a2ffd31c75eba0e4507830022e1497ff.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZVhPQjV5MXlvaG5YYnpHdnpCNWM3VkpqeGhxRjN2em8rT08wb1JxK1U4SkE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZVhPQjV5MXlvaG5YYnpHdnpCNWM3VkpqeGhxRjN2em8rT08wb1JxK1U4SkE9PQ"
+    },
+    "be78be412b4c002b4e0268905cea9afc19aa5a96d390d2bd351d28cb37fcba1e": {
+      "file": "be78be412b4c002b4e0268905cea9afc19aa5a96d390d2bd351d28cb37fcba1e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY0pzdCt5Vk9icWN6U2h1b29iVjFhQmlla3lyRjA1cGZNUlFvdGlaWElTWVE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY0pzdCt5Vk9icWN6U2h1b29iVjFhQmlla3lyRjA1cGZNUlFvdGlaWElTWVE9PQ"
+    },
+    "bf94239673a5db796ca9dc18a19deedbd018d95bd234697bbf4f58ed85a864ce": {
+      "file": "bf94239673a5db796ca9dc18a19deedbd018d95bd234697bbf4f58ed85a864ce.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZGpFUGxBS2diTlZTN1F0S2VDaVJFdjFrbzQ4bkcyMFZtbW9QeDdmMXBlOHc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZGpFUGxBS2diTlZTN1F0S2VDaVJFdjFrbzQ4bkcyMFZtbW9QeDdmMXBlOHc9PQ"
+    },
+    "c3a25281b3a41cde742ef5866e0a366243229adc14a8fb7c98f0ec926281b103": {
+      "file": "c3a25281b3a41cde742ef5866e0a366243229adc14a8fb7c98f0ec926281b103.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZjlmWStWelBhanZ2VTlZRm5lank5NU9DT2lZQXgyK2QycFlEM0NPazNOMUE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZjlmWStWelBhanZ2VTlZRm5lank5NU9DT2lZQXgyK2QycFlEM0NPazNOMUE9PQ"
+    },
+    "caec3d1147fc8bf806e6e80963d69ba62fe8610aa020e3194b4df6175d5dce7a": {
+      "file": "caec3d1147fc8bf806e6e80963d69ba62fe8610aa020e3194b4df6175d5dce7a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2MrUGJ2d1B2azhnb1gvcHFJRmlMQzhjZDRtNUZUWmNwYmJaSDhtTFcrTHc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY2MrUGJ2d1B2azhnb1gvcHFJRmlMQzhjZDRtNUZUWmNwYmJaSDhtTFcrTHc9PQ"
+    },
+    "cf0c04ecfa8a86261cc17a62aa799bef6de835d48194c0991e3564778e067c0b": {
+      "file": "cf0c04ecfa8a86261cc17a62aa799bef6de835d48194c0991e3564778e067c0b.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=The%20Devil%27s%20Bath",
+      "legacyFile": "https:4khdhub.dadsThepercent20Devilpercent27spercent20Bath"
+    },
+    "d1bc2e9dc8f433a46edea664454cfaec3f256998b9279fe896aa2ec58a71d0d8": {
+      "file": "d1bc2e9dc8f433a46edea664454cfaec3f256998b9279fe896aa2ec58a71d0d8.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY3JjVVlJTG1jelBCd1lRZHFpSmUvanA3RzRuWHdqVlNQeUF1Z2hxTUxZWEE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnY3JjVVlJTG1jelBCd1lRZHFpSmUvanA3RzRuWHdqVlNQeUF1Z2hxTUxZWEE9PQ"
+    },
+    "d595351fd669a3c0f6933a4027b63000147fd35c7711501d9a60f0ba9941c9df": {
+      "file": "d595351fd669a3c0f6933a4027b63000147fd35c7711501d9a60f0ba9941c9df.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZEdlYTNMQmFLS090YTNUd1hvRVlQOFRFNnZZdG1kSm9zVTlsZUcrUGNFWVE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZEdlYTNMQmFLS090YTNUd1hvRVlQOFRFNnZZdG1kSm9zVTlsZUcrUGNFWVE9PQ"
+    },
+    "dccd3d082e493cafd12bbe9039aa7f1d3d70ba0da58c029ab37fcda70a62547d": {
+      "file": "dccd3d082e493cafd12bbe9039aa7f1d3d70ba0da58c029ab37fcda70a62547d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZllvUlg3b3BVL2IrSjRUWlF5c0lzaTkxZ2VOQ3JGaGdIUmtLL25VSVRreHc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZllvUlg3b3BVL2IrSjRUWlF5c0lzaTkxZ2VOQ3JGaGdIUmtLL25VSVRreHc9PQ"
+    },
+    "dec490d577274fb54efcefbd6337c75e3610efd78685da1edb173f4bc9500d60": {
+      "file": "dec490d577274fb54efcefbd6337c75e3610efd78685da1edb173f4bc9500d60.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZnpwSE00SFhXbjNrMnhZRmpRNEljOXZVRXUxZHpoTHcrZDZoc3dxN1hsOVE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZnpwSE00SFhXbjNrMnhZRmpRNEljOXZVRXUxZHpoTHcrZDZoc3dxN1hsOVE9PQ"
+    },
+    "defe4f8d79b5784fe8b2cdbbf797cd999f857576c699bdb5b69d311701d2830b": {
+      "file": "defe4f8d79b5784fe8b2cdbbf797cd999f857576c699bdb5b69d311701d2830b.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/dark-series-889/",
+      "legacyFile": "https:4khdhub.daddark-series-889"
+    },
+    "deffae3c978b89fe86d8fbc90afa92eefffa55873c78d98b0a9c4a48a1946912": {
+      "file": "deffae3c978b89fe86d8fbc90afa92eefffa55873c78d98b0a9c4a48a1946912.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZlJHUjZsMEZxbVRwU0hNSHJsa1FwL2gwZk9oSUhBMjAzWWc2bE5tb1UyVXc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZlJHUjZsMEZxbVRwU0hNSHJsa1FwL2gwZk9oSUhBMjAzWWc2bE5tb1UyVXc9PQ"
+    },
+    "dfc71bd5b4047febfdc75ca18d5d4c5e61e3e4b0f11a7e64a0457aa67521ee8c": {
+      "file": "dfc71bd5b4047febfdc75ca18d5d4c5e61e3e4b0f11a7e64a0457aa67521ee8c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZCsxZlEyd2lDQkp3NXpka1IzREp6VlJDeUZKT21SRmpEMm5nYzN3dmlUQnc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZCsxZlEyd2lDQkp3NXpka1IzREp6VlJDeUZKT21SRmpEMm5nYzN3dmlUQnc9PQ"
+    },
+    "e11c84b8fb40a9a44f4fe7c3bc418c536f8b7c8415c6fbabc9e55294edce335f": {
+      "file": "e11c84b8fb40a9a44f4fe7c3bc418c536f8b7c8415c6fbabc9e55294edce335f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/lovely-runner-series-3379/",
+      "legacyFile": "https:4khdhub.dadlovely-runner-series-3379"
+    },
+    "e1db3a09fdaa14df48ce4438866fb730aa69159133d97b05cd27f31cd162fe17": {
+      "file": "e1db3a09fdaa14df48ce4438866fb730aa69159133d97b05cd27f31cd162fe17.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Dexter%3A%20Original%20Sin",
+      "legacyFile": "https:4khdhub.dadsDexterpercent3Apercent20Originalpercent20Sin"
+    },
+    "e3312513ad3f81b5b522459fcccabca7eb4ebde28d9235b07119bcdc7922f115": {
+      "file": "e3312513ad3f81b5b522459fcccabca7eb4ebde28d9235b07119bcdc7922f115.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Superman",
+      "legacyFile": "https:4khdhub.dadsSuperman"
+    },
+    "e66d82b9a14083765c7a474676afb2392810ddcd2fa44e7386e0d866b9ecddf7": {
+      "file": "e66d82b9a14083765c7a474676afb2392810ddcd2fa44e7386e0d866b9ecddf7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZUp1NzAyVStnNGRQdFBCUnFtK28wNGVsSXVwS1NLSjU1SjF4RkpGMHZWZmc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZUp1NzAyVStnNGRQdFBCUnFtK28wNGVsSXVwS1NLSjU1SjF4RkpGMHZWZmc9PQ"
+    },
+    "ecee635a95084117a042d2b628fc9dd5a868f2f2c105136fa8e3355896c3b94a": {
+      "file": "ecee635a95084117a042d2b628fc9dd5a868f2f2c105136fa8e3355896c3b94a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Crank",
+      "legacyFile": "https:4khdhub.dadsCrank"
+    },
+    "eeda0c7d5b80d97b6944e9437ec2d8628560e49d8fb86cef2105d372d7b48b58": {
+      "file": "eeda0c7d5b80d97b6944e9437ec2d8628560e49d8fb86cef2105d372d7b48b58.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZk1jeHlsLzVWdFpmMHl0eU42THRPK2NsczRGU0QrK1dpbVBxWi83Tjk5SWc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZk1jeHlsLzVWdFpmMHl0eU42THRPK2NsczRGU0QrK1dpbVBxWi83Tjk5SWc9PQ"
+    },
+    "ef259cf0d140c1fd552d596563f497801e2bebe782624d8fd11b1886ff1ce0b1": {
+      "file": "ef259cf0d140c1fd552d596563f497801e2bebe782624d8fd11b1886ff1ce0b1.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZmFhWUc0ZHVBT3VDTkV3em1NdTBsSUtDRjV4blB6cHFzbnlJV2dMOEJ2enc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZmFhWUc0ZHVBT3VDTkV3em1NdTBsSUtDRjV4blB6cHFzbnlJV2dMOEJ2enc9PQ"
+    },
+    "f04d7fca7ed4ae46010808125460270a3bd5c243a80ed46765d15155fb5e5183": {
+      "file": "f04d7fca7ed4ae46010808125460270a3bd5c243a80ed46765d15155fb5e5183.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/f1-the-movie-movie-3084/",
+      "legacyFile": "https:4khdhub.dadf1-the-movie-movie-3084"
+    },
+    "f23642b0d7fd963e885bbbd57d972e162bfada873bb6cfac50134160efcd279a": {
+      "file": "f23642b0d7fd963e885bbbd57d972e162bfada873bb6cfac50134160efcd279a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=Stranger%20Things",
+      "legacyFile": "https:4khdhub.dadsStrangerpercent20Things"
+    },
+    "f56e14b5c826b419aa316f040791583c9ed849ca0c27b08eb88c855869bb5058": {
+      "file": "f56e14b5c826b419aa316f040791583c9ed849ca0c27b08eb88c855869bb5058.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://4khdhub.dad/?s=The%20Tank",
+      "legacyFile": "https:4khdhub.dadsThepercent20Tank"
+    },
+    "f8bf5a3f46499cec96ba7a5297b7719b80b5cd45935d18879e7d9779b1bbdb2e": {
+      "file": "f8bf5a3f46499cec96ba7a5297b7719b80b5cd45935d18879e7d9779b1bbdb2e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZU5GdnpVc0xiWWFxZ3B5RkNWNHFzamdUSmRoK3E3aUhYS1kxQlZ5Q0RkeHc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZU5GdnpVc0xiWWFxZ3B5RkNWNHFzamdUSmRoK3E3aUhYS1kxQlZ5Q0RkeHc9PQ"
+    },
+    "f8f7d590d43f40e30f7967d5fcb18a6642795d0490f8a95861ce492e705cf974": {
+      "file": "f8f7d590d43f40e30f7967d5fcb18a6642795d0490f8a95861ce492e705cf974.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZEJ5eC9tOEpYS0Q5cEVncHNNNVQ0ZzhVRWU5eTY4d1JXQ0hYQkdjTktmVmc9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZEJ5eC9tOEpYS0Q5cEVncHNNNVQ0ZzhVRWU5eTY4d1JXQ0hYQkdjTktmVmc9PQ"
+    },
+    "fe714fececa86f71124b023020d9429b3c3fabb1b3ed08f4f99c1d5d3699fcdf": {
+      "file": "fe714fececa86f71124b023020d9429b3c3fabb1b3ed08f4f99c1d5d3699fcdf.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://gadgetsweb.xyz/?id=Q1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZEFmWkhwL24rNDlnUldXZXcya082OWcxOVVjMjExWVNFSkFNR1VxUFZyZlE9PQ==",
+      "legacyFile": "https:gadgetsweb.xyzidQ1dxTzFnbjhrQm5kMG5lL01tQzcvZzhmMjZOTkNrdktvSEp1VXBaU3FnZEFmWkhwL24rNDlnUldXZXcya082OWcxOVVjMjExWVNFSkFNR1VxUFZyZlE9PQ"
+    }
+  },
+  "version": 1
+}

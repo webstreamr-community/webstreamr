@@ -1,0 +1,131 @@
+{
+  "entries": {
+    "19c7f2d245ed1050d2b0e94d3031c35248d905ef4be470643d922990e38469b6": {
+      "file": "19c7f2d245ed1050d2b0e94d3031c35248d905ef4be470643d922990e38469b6.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/559969?language=es",
+      "legacyFile": "https:api.themoviedb.org3movie559969languagees"
+    },
+    "2950d84569c0750909dbc4475337751f759b55779afe3a7bb6c6f42d1054392b": {
+      "file": "2950d84569c0750909dbc4475337751f759b55779afe3a7bb6c6f42d1054392b.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://player.cuevana3.eu/player.php?h=L_S5.I9TT8gF_oMzWJhf_WboaVig7kqjX1pk7wtUnubg6y0VFGER12rD6dWskvRA",
+      "legacyFile": "https:player.cuevana3.euplayer.phphL_S5.I9TT8gF_oMzWJhf_WboaVig7kqjX1pk7wtUnubg6y0VFGER12rD6dWskvRA"
+    },
+    "2c4cc4b1c101f4975fb18b6cf410522c496c3a6320f1002bdcb044f8783d5cc7": {
+      "file": "2c4cc4b1c101f4975fb18b6cf410522c496c3a6320f1002bdcb044f8783d5cc7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/search/El%20Camino%3A%20Una%20pel%C3%ADcula%20de%20Breaking%20Bad/",
+      "legacyFile": "https:ww1.cuevana3.issearchElpercent20Caminopercent3Apercent20Unapercent20pelpercentC3percentADculapercent20depercent20Breakingpercent20Bad"
+    },
+    "47b8343c4789fc6ec0f7879fd3d22b050456eec89af1e2ec1276e54fff748be4": {
+      "file": "47b8343c4789fc6ec0f7879fd3d22b050456eec89af1e2ec1276e54fff748be4.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/search/The%20Walking%20Dead/",
+      "legacyFile": "https:ww1.cuevana3.issearchThepercent20Walkingpercent20Dead"
+    },
+    "4f74d81dfd940b7b6a7d9d030810378740a2b3a96e62852d4d14421b31ccdc24": {
+      "file": "4f74d81dfd940b7b6a7d9d030810378740a2b3a96e62852d4d14421b31ccdc24.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/ver-serie/the-walking-dead",
+      "legacyFile": "https:ww1.cuevana3.isver-seriethe-walking-dead"
+    },
+    "67ac1adcfe921979d4a0023af8a2f4ce532297f9f8d9efd96d6e535e49030117": {
+      "file": "67ac1adcfe921979d4a0023af8a2f4ce532297f9f8d9efd96d6e535e49030117.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/search/La%20frontera/",
+      "legacyFile": "https:ww1.cuevana3.issearchLapercent20frontera"
+    },
+    "7773defb33d1a985edd3d93f92eadadcf48dfefe9791ccd5df9abe9a3f4d4c60": {
+      "file": "7773defb33d1a985edd3d93f92eadadcf48dfefe9791ccd5df9abe9a3f4d4c60.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://player.cuevana3.eu/player.php?h=rxPRsRSX4IlkyS1F21W5j.ZcaELYxCftU372pkqUh7QT6JXnZy9MtkHNXvb9xqcz",
+      "legacyFile": "https:player.cuevana3.euplayer.phphrxPRsRSX4IlkyS1F21W5j.ZcaELYxCftU372pkqUh7QT6JXnZy9MtkHNXvb9xqcz"
+    },
+    "8b1a799696861023d2d40d3b04e075c76c8ed77333a6035273303387b6bc960a": {
+      "file": "8b1a799696861023d2d40d3b04e075c76c8ed77333a6035273303387b6bc960a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/ver-serie/la-frontera",
+      "legacyFile": "https:ww1.cuevana3.isver-seriela-frontera"
+    },
+    "9ceab6347e0bda3592e7a376688e0772d731fcfe2de900acfde8709b51e78360": {
+      "file": "9ceab6347e0bda3592e7a376688e0772d731fcfe2de900acfde8709b51e78360.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/61945?language=es",
+      "legacyFile": "https:api.themoviedb.org3tv61945languagees"
+    },
+    "a36570af22ebcb6a6e42d744379fce3278e9b65b07b9369317104905d72d3f63": {
+      "file": "a36570af22ebcb6a6e42d744379fce3278e9b65b07b9369317104905d72d3f63.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/ver-pelicula/el-camino-una-pelicula-de-breaking-bad",
+      "legacyFile": "https:ww1.cuevana3.isver-peliculael-camino-una-pelicula-de-breaking-bad"
+    },
+    "c160d50bd06b2dc2de489f7db9c0d4aa7f610e7e00924be8bf5d1d41dd3df028": {
+      "file": "c160d50bd06b2dc2de489f7db9c0d4aa7f610e7e00924be8bf5d1d41dd3df028.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://player.cuevana3.eu/player.php?h=3HIdfUNk1x9FKqhEuaYLNrCAGfkrNK9TmCB8kPLwLAxy7_lq2_kJ7qbFl.W70Ooq",
+      "legacyFile": "https:player.cuevana3.euplayer.phph3HIdfUNk1x9FKqhEuaYLNrCAGfkrNK9TmCB8kPLwLAxy7_lq2_kJ7qbFl.W70Ooq"
+    },
+    "c8a1e9dd37a3245468b95d771fcae7393d09e984197c0526c720900f26420aa6": {
+      "file": "c8a1e9dd37a3245468b95d771fcae7393d09e984197c0526c720900f26420aa6.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/1402?language=es",
+      "legacyFile": "https:api.themoviedb.org3tv1402languagees"
+    },
+    "cadede08d3e3b48af0f83458a70b95d10fd2a617b1e76e381461c1f930ceda00": {
+      "file": "cadede08d3e3b48af0f83458a70b95d10fd2a617b1e76e381461c1f930ceda00.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/search/Vorstadtweiber/",
+      "legacyFile": "https:ww1.cuevana3.issearchVorstadtweiber"
+    },
+    "d4764f7c548656330dd704a652e2f74eb6a8abb8c19f77a002f4f355bda45f9d": {
+      "file": "d4764f7c548656330dd704a652e2f74eb6a8abb8c19f77a002f4f355bda45f9d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://player.cuevana3.eu/player.php?h=b4V4QCQH04mLSy2ukvmtf3Pui3PV.Ei0Nx90QhodD5Zytl8xenmbk2LtVJN6uXu0",
+      "legacyFile": "https:player.cuevana3.euplayer.phphb4V4QCQH04mLSy2ukvmtf3Pui3PV.Ei0Nx90QhodD5Zytl8xenmbk2LtVJN6uXu0"
+    },
+    "d6d030b8d3f020618099b4d0431d0bb31be49602c6ea68a603676b0a4193a816": {
+      "file": "d6d030b8d3f020618099b4d0431d0bb31be49602c6ea68a603676b0a4193a816.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/episodio/la-frontera-temporada-1-episodio-1",
+      "legacyFile": "https:ww1.cuevana3.isepisodiola-frontera-temporada-1-episodio-1"
+    },
+    "d797f66f2c4ed26366cd3e184ae74544052454aeadf69c7eb0f3e9238ff9a21a": {
+      "file": "d797f66f2c4ed26366cd3e184ae74544052454aeadf69c7eb0f3e9238ff9a21a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ww1.cuevana3.is/episodio/the-walking-dead-temporada-2-episodio-1",
+      "legacyFile": "https:ww1.cuevana3.isepisodiothe-walking-dead-temporada-2-episodio-1"
+    },
+    "d8fad67043b4998a4b855c26fb4ab57d2fa367a775a0327f5badf140e13a6250": {
+      "file": "d8fad67043b4998a4b855c26fb4ab57d2fa367a775a0327f5badf140e13a6250.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://player.cuevana3.eu/player.php?h=fXuMjvaiA4iZ_F_4aa6THwJJQGLiOL6WllBXosgV9VY-",
+      "legacyFile": "https:player.cuevana3.euplayer.phphfXuMjvaiA4iZ_F_4aa6THwJJQGLiOL6WllBXosgV9VY"
+    },
+    "e443a1ff79eb16d8b581754f316afa2b0b8ba05f7ebe5c656bd02810d06b5311": {
+      "file": "e443a1ff79eb16d8b581754f316afa2b0b8ba05f7ebe5c656bd02810d06b5311.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/274980?language=es",
+      "legacyFile": "https:api.themoviedb.org3tv274980languagees"
+    }
+  },
+  "version": 1
+}

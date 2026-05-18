@@ -1,0 +1,187 @@
+{
+  "entries": {
+    "037b2b88e4177038109b111a63a4551cd554d15b5fe409031ca3d93680ff5ee3": {
+      "file": "037b2b88e4177038109b111a63a4551cd554d15b5fe409031ca3d93680ff5ee3.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=serie&tmdb=42009&sa=4&epi=2&server=link1",
+      "legacyFile": "head-https:frembed.workapistreamtypeserieandtmdb42009andsa4andepi2andserverlink1"
+    },
+    "0d41fdfd00ce93dc797d4d1b88ad1de490ea1d79a72c6decbd0911b3ef3c5987": {
+      "file": "0d41fdfd00ce93dc797d4d1b88ad1de490ea1d79a72c6decbd0911b3ef3c5987.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=serie&tmdb=42009&sa=4&epi=2&server=link",
+      "legacyFile": "head-https:frembed.workapistreamtypeserieandtmdb42009andsa4andepi2andserverlink"
+    },
+    "1083afe52528872feec306c3c7740a6b16fe14c383193c45c73e6c35b2c54558": {
+      "file": "1083afe52528872feec306c3c7740a6b16fe14c383193c45c73e6c35b2c54558.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=serie&tmdb=42009&sa=4&epi=2&server=link3",
+      "legacyFile": "head-https:frembed.workapistreamtypeserieandtmdb42009andsa4andepi2andserverlink3"
+    },
+    "3e2a9567e5a1d5542eacc40a8692b2399dcbd8f524dc94ef0055c4b31df2cfb5": {
+      "file": "3e2a9567e5a1d5542eacc40a8692b2399dcbd8f524dc94ef0055c4b31df2cfb5.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/3176",
+      "legacyFile": "https:api.themoviedb.org3movie3176"
+    },
+    "43873ef176d5435da57983c94d106e1d3478dcbfdaab4b3ddc9a01e257edc57a": {
+      "file": "43873ef176d5435da57983c94d106e1d3478dcbfdaab4b3ddc9a01e257edc57a.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=movie&tmdb=3176&server=link3",
+      "legacyFile": "head-https:frembed.workapistreamtypemovieandtmdb3176andserverlink3"
+    },
+    "441a7672aec4a2dd23d574412789de6d2fde63f2b6a1bf55c7b143428df92165": {
+      "file": "441a7672aec4a2dd23d574412789de6d2fde63f2b6a1bf55c7b143428df92165.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://myvidplay.com/e/gtenfs0rffzq",
+      "legacyFile": "head-https:myvidplay.comegtenfs0rffzq"
+    },
+    "456b78d700fa966bb9ea3baf07302ff8a3508e139e85e3f5fb6fc38bbedb24b7": {
+      "file": "456b78d700fa966bb9ea3baf07302ff8a3508e139e85e3f5fb6fc38bbedb24b7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt2085059?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt2085059external_sourceimdb_id"
+    },
+    "50a59d887299f946a371081188cdf389f24e4ce67e59add43cb1c324a7f65f82": {
+      "file": "50a59d887299f946a371081188cdf389f24e4ce67e59add43cb1c324a7f65f82.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/",
+      "legacyFile": "head-https:frembed.work"
+    },
+    "50fce9a59929494cc8bbb0935489542579286394b4e5eab0c2979a0b534a4a45": {
+      "file": "50fce9a59929494cc8bbb0935489542579286394b4e5eab0c2979a0b534a4a45.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://lancewhosedifficult.com/e/cqy9oue7sv0g",
+      "legacyFile": "head-https:lancewhosedifficult.comecqy9oue7sv0g"
+    },
+    "54b7f835da0d989950cd751155e4f693f5ee9169757f069cac82b3c0eb5c7076": {
+      "file": "54b7f835da0d989950cd751155e4f693f5ee9169757f069cac82b3c0eb5c7076.error.txt",
+      "kind": "error",
+      "method": "HEAD",
+      "url": "https://video.streamtales.cc/player/frvod.php?url=https://streamtales.cc:8443/videos/3176.mp4",
+      "legacyFile": "head-https:video.streamtales.ccplayerfrvod.phpurlhttps:streamtales.cc:8443videos3176.mp4.error"
+    },
+    "749f82434a743662070074bd0e99e428482a38794333943ddc78276072f182fd": {
+      "file": "749f82434a743662070074bd0e99e428482a38794333943ddc78276072f182fd.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://lancewhosedifficult.com/e/lbeqm6ofmauq",
+      "legacyFile": "head-https:lancewhosedifficult.comelbeqm6ofmauq"
+    },
+    "844045a6d97fb309897037e51be8474fefd97aef496fba460c1d354da052c870": {
+      "file": "844045a6d97fb309897037e51be8474fefd97aef496fba460c1d354da052c870.error.txt",
+      "kind": "error",
+      "method": "HEAD",
+      "url": "https://uqload.is/e/fzfvfq3ngig0",
+      "legacyFile": "head-https:uqload.isefzfvfq3ngig0.error"
+    },
+    "8bed83b16296c8f91dbde3ed7875a9f841b0b89ed812a1d0301c128a5646d0ac": {
+      "file": "8bed83b16296c8f91dbde3ed7875a9f841b0b89ed812a1d0301c128a5646d0ac.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://frembed.work/api/films?id=3176&idType=tmdb",
+      "legacyFile": "https:frembed.workapifilmsid3176andidTypetmdb"
+    },
+    "8d57df061f06ba783a23eac9d3eb47048d9742d534e77596ae524fe73b62ad00": {
+      "file": "8d57df061f06ba783a23eac9d3eb47048d9742d534e77596ae524fe73b62ad00.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://frembed.work/api/series?id=42009&sa=4&epi=2&idType=tmdb",
+      "legacyFile": "https:frembed.workapiseriesid42009andsa4andepi2andidTypetmdb"
+    },
+    "9e08f2dd8ffd28afdeb6e5c4e3d4cd8117f43e9a5e90ef17a9a8a6c49813375d": {
+      "file": "9e08f2dd8ffd28afdeb6e5c4e3d4cd8117f43e9a5e90ef17a9a8a6c49813375d.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://ahvsh.com/e/83izf7qzwpae,https://netu.frembed.fun/e/0DFgfkcXOsDP,https://likessb.com/e/7yjgl1x56n08.html,https://ds2play.com/e/fzfvfq3ngig0",
+      "legacyFile": "head-https:ahvsh.come83izf7qzwpaehttps:netu.frembed.fune0DFgfkcXOsDPhttps:likessb.come7yjgl1x56n08.htmlhttps:ds2play.comefzfvfq3ngig0"
+    },
+    "a3133005cf3247f573f88b388047a00d41f03f6e307a4d44ca68a40727cfb6e6": {
+      "file": "a3133005cf3247f573f88b388047a00d41f03f6e307a4d44ca68a40727cfb6e6.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=movie&tmdb=3176&server=link2",
+      "legacyFile": "head-https:frembed.workapistreamtypemovieandtmdb3176andserverlink2"
+    },
+    "a5c09fe6534cff62509b5b3ee7992f2aad03889c7c6ee1194d1c1679305a01b8": {
+      "file": "a5c09fe6534cff62509b5b3ee7992f2aad03889c7c6ee1194d1c1679305a01b8.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=movie&tmdb=3176&server=link7",
+      "legacyFile": "head-https:frembed.workapistreamtypemovieandtmdb3176andserverlink7"
+    },
+    "a65faa7f85b72240fa7658c75fec9158d206ad19a27f07d30d456114aed5e452": {
+      "file": "a65faa7f85b72240fa7658c75fec9158d206ad19a27f07d30d456114aed5e452.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=serie&tmdb=42009&sa=4&epi=2&server=link4",
+      "legacyFile": "head-https:frembed.workapistreamtypeserieandtmdb42009andsa4andepi2andserverlink4"
+    },
+    "a7a784ccc39b9fd0cabd5d90734623a729d0179e46ac9df432ab30d42938666f": {
+      "file": "a7a784ccc39b9fd0cabd5d90734623a729d0179e46ac9df432ab30d42938666f.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=movie&tmdb=3176&server=link4",
+      "legacyFile": "head-https:frembed.workapistreamtypemovieandtmdb3176andserverlink4"
+    },
+    "be372384342836b8a5b0c4a68827802866a1ddf963d682497a398b74b28be573": {
+      "file": "be372384342836b8a5b0c4a68827802866a1ddf963d682497a398b74b28be573.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/42009",
+      "legacyFile": "https:api.themoviedb.org3tv42009"
+    },
+    "c7f8fe25f92aca3dda6630c128806b2974cd5d8a1af189f91e39c3f3bc9dea58": {
+      "file": "c7f8fe25f92aca3dda6630c128806b2974cd5d8a1af189f91e39c3f3bc9dea58.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://myvidplay.com/e/dfx8me4un4ul",
+      "legacyFile": "head-https:myvidplay.comedfx8me4un4ul"
+    },
+    "cab62d376188f6623207dad2287c9f69e0d8e8e24a1d275bd7e94313470332a2": {
+      "file": "cab62d376188f6623207dad2287c9f69e0d8e8e24a1d275bd7e94313470332a2.error.txt",
+      "kind": "error",
+      "method": "HEAD",
+      "url": "https://netu.frembed.best/e/p0QUHavRbQD0",
+      "legacyFile": "head-https:netu.frembed.bestep0QUHavRbQD0.error"
+    },
+    "cee0fccf1a94f3acd9679542a50afb00b64f414e1fe77e9610fab22de0443ca1": {
+      "file": "cee0fccf1a94f3acd9679542a50afb00b64f414e1fe77e9610fab22de0443ca1.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=movie&tmdb=3176&server=link1",
+      "legacyFile": "head-https:frembed.workapistreamtypemovieandtmdb3176andserverlink1"
+    },
+    "ec3d3cbd9aaaceaaf2e161aa272b37d8010e548a8cbbc57a01ed971f88ec0084": {
+      "file": "ec3d3cbd9aaaceaaf2e161aa272b37d8010e548a8cbbc57a01ed971f88ec0084.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://frembed.work/api/stream?type=serie&tmdb=42009&sa=4&epi=2&server=link2",
+      "legacyFile": "head-https:frembed.workapistreamtypeserieandtmdb42009andsa4andepi2andserverlink2"
+    },
+    "ed9d5d8b628ef304ef62c2978f9e08c160ef30562b3e4b1fc299d3ba15728916": {
+      "file": "ed9d5d8b628ef304ef62c2978f9e08c160ef30562b3e4b1fc299d3ba15728916.error.txt",
+      "kind": "error",
+      "method": "HEAD",
+      "url": "https://netu.frembed.best/e/0DFgfkcXOsDP",
+      "legacyFile": "head-https:netu.frembed.beste0DFgfkcXOsDP.error"
+    },
+    "ff6541a0ca618a266e1e1dec1c14a1394942e3aa0845e2b16c8f4d4f88568795": {
+      "file": "ff6541a0ca618a266e1e1dec1c14a1394942e3aa0845e2b16c8f4d4f88568795.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://uqload.is/embed-pnxmokgrigu9.html",
+      "legacyFile": "head-https:uqload.isembed-pnxmokgrigu9.html"
+    }
+  },
+  "version": 1
+}

@@ -1,0 +1,47 @@
+{
+  "entries": {
+    "22364eb906bd90ea7e4146a1daea4149c2dcf745ad1f0837235c9d76a3ccaa95": {
+      "file": "22364eb906bd90ea7e4146a1daea4149c2dcf745ad1f0837235c9d76a3ccaa95.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://dropload.io/gf2apij3ql37",
+      "legacyFile": "https:dropload.iogf2apij3ql37"
+    },
+    "37259418927e4ee478effe35dcc8ccca65af5f655daf67ad9a452f09a42c5a32": {
+      "file": "37259418927e4ee478effe35dcc8ccca65af5f655daf67ad9a452f09a42c5a32.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://dropload.io/lyo2h1snpe5c.html",
+      "legacyFile": "https:dropload.iolyo2h1snpe5c.html"
+    },
+    "4002cfcd1754c307fe5cec843f7dda9e7d0ac3e78357a7debada96d2ea34697b": {
+      "file": "4002cfcd1754c307fe5cec843f7dda9e7d0ac3e78357a7debada96d2ea34697b.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://dropload.io/7xtxuac84xyh.html",
+      "legacyFile": "https:dropload.io7xtxuac84xyh.html"
+    },
+    "f46f02592aa3258a37da6ba4bcd061aa6e68d6700815be5464dbf9edad63a07a": {
+      "file": "f46f02592aa3258a37da6ba4bcd061aa6e68d6700815be5464dbf9edad63a07a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://ds16.dropcdn.io/hls2/02/00314/gf2apij3ql37_h/master.m3u8?t=jq0VCV2dOyLIIH07IGIpzruCXvbfdVqzGLWfMeo00AM&s=1759845990&e=14400&f=1571895&srv=ds3&i=0.0&sp=0&ii=2.184.0.222&p1=ds3&p2=ds3",
+      "legacyFile": "https:ds16.dropcdn.iohls20200314gf2apij3ql37_hmaster.m3u8tjq0VCV2dOyLIIH07IGIpzruCXvbfdVqzGLWfMeo00AMands1759845990ande14400andf1571895andsrvds3andi0.0andsp0andii2.184.0.222andp1ds3andp2ds3"
+    },
+    "f5a397000db44799c457c42defd985e6b6ae726e9de80204b49cc30be1e8c9b0": {
+      "file": "f5a397000db44799c457c42defd985e6b6ae726e9de80204b49cc30be1e8c9b0.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://dropload.io/xhcmgcc2txnv",
+      "legacyFile": "https:dropload.ioxhcmgcc2txnv"
+    },
+    "f7187fc0c2ca6dfb0d8926dc2a1ff3b7fc682e37ed1e7e5bb99eee1f4d83cc49": {
+      "file": "f7187fc0c2ca6dfb0d8926dc2a1ff3b7fc682e37ed1e7e5bb99eee1f4d83cc49.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://dropload.io/asdfghijklmn.html",
+      "legacyFile": "https:dropload.ioasdfghijklmn.html"
+    }
+  },
+  "version": 1
+}

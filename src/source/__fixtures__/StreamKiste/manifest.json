@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "30fdaadd2d7948d9580320c66e1517be0d6d7237455f6c94d9e9e37893c155e4": {
+      "file": "30fdaadd2d7948d9580320c66e1517be0d6d7237455f6c94d9e9e37893c155e4.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://streamkiste.taxi/?story=42009&do=search&subaction=search",
+      "legacyFile": "https:streamkiste.taxistory42009anddosearchandsubactionsearch"
+    },
+    "530b5accc016da938936d46bf124d228db3b159fa1aca34c4e3e80a4b1b2f968": {
+      "file": "530b5accc016da938936d46bf124d228db3b159fa1aca34c4e3e80a4b1b2f968.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://streamkiste.taxi/?story=12345678&do=search&subaction=search",
+      "legacyFile": "https:streamkiste.taxistory12345678anddosearchandsubactionsearch"
+    },
+    "6bc56727a14d92074652ef6f6f39590c43f715eef24550cc9319b955ab3fe198": {
+      "file": "6bc56727a14d92074652ef6f6f39590c43f715eef24550cc9319b955ab3fe198.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://streamkiste.taxi/?story=286801&do=search&subaction=search",
+      "legacyFile": "https:streamkiste.taxistory286801anddosearchandsubactionsearch"
+    },
+    "7efa538bfc2572b0a00be2050faba5a1c8583aed32a668b21e6a2394a0535eb8": {
+      "file": "7efa538bfc2572b0a00be2050faba5a1c8583aed32a668b21e6a2394a0535eb8.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://streamkiste.taxi/movie/40087-monster-die-geschichte-von-ed-gein-stream-kostenlos.html",
+      "legacyFile": "https:streamkiste.taximovie40087-monster-die-geschichte-von-ed-gein-stream-kostenlos.html"
+    },
+    "862b0e7ec4dbfcaf513318c4018d90a2556fd076c0d7b248c3e74c330f2d0af1": {
+      "file": "862b0e7ec4dbfcaf513318c4018d90a2556fd076c0d7b248c3e74c330f2d0af1.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://streamkiste.taxi/movie/29992-black-mirror-stream-kostenlos.html",
+      "legacyFile": "https:streamkiste.taximovie29992-black-mirror-stream-kostenlos.html"
+    }
+  },
+  "version": 1
+}

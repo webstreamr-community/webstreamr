@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "4beac890ec223aaa36fe9663201498b353ec9f07131012b2ee8d50d5b433572e": {
+      "file": "4beac890ec223aaa36fe9663201498b353ec9f07131012b2ee8d50d5b433572e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://verhdlink.cam/movie/tt12345678",
+      "legacyFile": "https:verhdlink.cammoviett12345678"
+    },
+    "66d883d62660fc011af5c5ce6327633c1018807162de1e80f6de41afcd8a3a06": {
+      "file": "66d883d62660fc011af5c5ce6327633c1018807162de1e80f6de41afcd8a3a06.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://verhdlink.cam/movie/tt0120338",
+      "legacyFile": "https:verhdlink.cammoviett0120338"
+    }
+  },
+  "version": 1
+}

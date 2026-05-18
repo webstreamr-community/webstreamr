@@ -1,0 +1,152 @@
+{
+  "entries": {
+    "0772eef402303f3c8f38558d0b93f8d79f882dd378d5f6293f7cfd13294409ef": {
+      "file": "0772eef402303f3c8f38558d0b93f8d79f882dd378d5f6293f7cfd13294409ef.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/1399?language=it",
+      "legacyFile": "https:api.themoviedb.org3tv1399languageit"
+    },
+    "092b8960cbc6b2bfd500ae96692acb1eea3914f1f2aad72b1228885dcc2c30fb": {
+      "file": "092b8960cbc6b2bfd500ae96692acb1eea3914f1f2aad72b1228885dcc2c30fb.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://eurostreaming.luxe/stream/2529-mercoledi-wednesday-streaming.html",
+      "legacyFile": "https:eurostreaming.luxestream2529-mercoledi-wednesday-streaming.html"
+    },
+    "1f3bce6a9424030c5c93ffc4adb4dc56623e828be765322e206d54369c69d11d": {
+      "file": "1f3bce6a9424030c5c93ffc4adb4dc56623e828be765322e206d54369c69d11d.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://eurostreaming.luxe/index.php?do=search",
+      "data": "subaction=search&story=Vorstadtweiber",
+      "legacyFile": "post-https:eurostreaming.luxeindex.phpdosearch-subactionsearchandstoryVorstadtweiber"
+    },
+    "4282819eee7722bafde64c56fb136f59cdde23c9bab647b9fc2428a303032207": {
+      "file": "4282819eee7722bafde64c56fb136f59cdde23c9bab647b9fc2428a303032207.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/61945?language=it",
+      "legacyFile": "https:api.themoviedb.org3tv61945languageit"
+    },
+    "5668a79da6c2b305e9ce9c58d9c1790c135d4814e6d9fea17204d631e4779db4": {
+      "file": "5668a79da6c2b305e9ce9c58d9c1790c135d4814e6d9fea17204d631e4779db4.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://eurostreaming.luxe/stream/2605-the-last-of-us-streamingcommunity-streaming.html",
+      "legacyFile": "https:eurostreaming.luxestream2605-the-last-of-us-streamingcommunity-streaming.html"
+    },
+    "6b4d66caa5c70b100f8c87f9474a257506b374d2ed5aa78142317da55f516e65": {
+      "file": "6b4d66caa5c70b100f8c87f9474a257506b374d2ed5aa78142317da55f516e65.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://eurostreaming.luxe/stream/194-visualizza-game-of-thrones-il-trono-di-spade-5-streaming.html",
+      "legacyFile": "https:eurostreaming.luxestream194-visualizza-game-of-thrones-il-trono-di-spade-5-streaming.html"
+    },
+    "750b74528f4542f6e01cb1c272358d57f0c5082b0ee1ac40528628a0a7236027": {
+      "file": "750b74528f4542f6e01cb1c272358d57f0c5082b0ee1ac40528628a0a7236027.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/157239?language=it",
+      "legacyFile": "https:api.themoviedb.org3tv157239languageit"
+    },
+    "7909a913f69eba553feca4863db5e9c2e18e684e8bac7175e8f0431645013f08": {
+      "file": "7909a913f69eba553feca4863db5e9c2e18e684e8bac7175e8f0431645013f08.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://eurostreaming.luxe/stream/284-black-mirror-streaming-streaming.html",
+      "legacyFile": "https:eurostreaming.luxestream284-black-mirror-streaming-streaming.html"
+    },
+    "8e2ad4986ad5f44fd1b4a760035a37fdf2cb5b018759640e65bca138c0296a2a": {
+      "file": "8e2ad4986ad5f44fd1b4a760035a37fdf2cb5b018759640e65bca138c0296a2a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://eurostreaming.luxe/stream/4331-alien-pianeta-terra-streaming-streaming.html",
+      "legacyFile": "https:eurostreaming.luxestream4331-alien-pianeta-terra-streaming-streaming.html"
+    },
+    "96d1f18c0da03b59697f60410e82c4a72cb23d26534e98b3551336a6c3b33f89": {
+      "file": "96d1f18c0da03b59697f60410e82c4a72cb23d26534e98b3551336a6c3b33f89.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/100088?language=it",
+      "legacyFile": "https:api.themoviedb.org3tv100088languageit"
+    },
+    "bff343482fbd0ea2d644ff438e360645ff607ce48cd82e38bc585d036f7bff31": {
+      "file": "bff343482fbd0ea2d644ff438e360645ff607ce48cd82e38bc585d036f7bff31.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/42009?language=it",
+      "legacyFile": "https:api.themoviedb.org3tv42009languageit"
+    },
+    "d33d5e0be0f40a44baa28ff968698f74a1941f86fefd6eb65cffdae908516d6c": {
+      "file": "d33d5e0be0f40a44baa28ff968698f74a1941f86fefd6eb65cffdae908516d6c.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://eurostreaming.luxe/index.php?do=search",
+      "data": "subaction=search&story=Mercoled%C3%AC",
+      "legacyFile": "post-https:eurostreaming.luxeindex.phpdosearch-subactionsearchandstoryMercoledpercentC3percentAC"
+    },
+    "d58b527eaf4ab5489fa1c2f060c5463b2aacb2e4d77fc633baccaf0621a2d7e4": {
+      "file": "d58b527eaf4ab5489fa1c2f060c5463b2aacb2e4d77fc633baccaf0621a2d7e4.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://eurostreaming.luxe/stream/496-lost-streaming.html",
+      "legacyFile": "https:eurostreaming.luxestream496-lost-streaming.html"
+    },
+    "dd8256b9c43776cd94e901bc5980f3c3930ef9cb2991230ba292b15c7640c72f": {
+      "file": "dd8256b9c43776cd94e901bc5980f3c3930ef9cb2991230ba292b15c7640c72f.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://eurostreaming.luxe/index.php?do=search",
+      "data": "subaction=search&story=Il+Trono+di+Spade",
+      "legacyFile": "post-https:eurostreaming.luxeindex.phpdosearch-subactionsearchandstoryIl+Trono+di+Spade"
+    },
+    "e0e96943669bbc77c8d511113a063b4f458cc8d2af29945d6073790ccd386f99": {
+      "file": "e0e96943669bbc77c8d511113a063b4f458cc8d2af29945d6073790ccd386f99.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://eurostreaming.luxe/index.php?do=search",
+      "data": "subaction=search&story=The+Last+of+Us",
+      "legacyFile": "post-https:eurostreaming.luxeindex.phpdosearch-subactionsearchandstoryThe+Last+of+Us"
+    },
+    "eb391d4577e29b1b7d9c808ee5594574b377068b393447a6db62d1c2f99c5267": {
+      "file": "eb391d4577e29b1b7d9c808ee5594574b377068b393447a6db62d1c2f99c5267.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/4607?language=it",
+      "legacyFile": "https:api.themoviedb.org3tv4607languageit"
+    },
+    "f37fa11fd56d5e9b8bfd81c68007d1529d2a0e246442dd85028e6393636bd22f": {
+      "file": "f37fa11fd56d5e9b8bfd81c68007d1529d2a0e246442dd85028e6393636bd22f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/119051?language=it",
+      "legacyFile": "https:api.themoviedb.org3tv119051languageit"
+    },
+    "f7d6860d5c24c457ee92574846ebdc1f0852e7e27ecb504bdfe23787815fb4f9": {
+      "file": "f7d6860d5c24c457ee92574846ebdc1f0852e7e27ecb504bdfe23787815fb4f9.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://eurostreaming.luxe/index.php?do=search",
+      "data": "subaction=search&story=Lost",
+      "legacyFile": "post-https:eurostreaming.luxeindex.phpdosearch-subactionsearchandstoryLost"
+    },
+    "fab992ddeff83222be31b016fafd8e286a250d1f051255478db848c30599cfb3": {
+      "file": "fab992ddeff83222be31b016fafd8e286a250d1f051255478db848c30599cfb3.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://eurostreaming.luxe/index.php?do=search",
+      "data": "subaction=search&story=Black+Mirror",
+      "legacyFile": "post-https:eurostreaming.luxeindex.phpdosearch-subactionsearchandstoryBlack+Mirror"
+    },
+    "ff088292a0c3befbc9ed8ef6b1e7442810eeadc8643b25312905cbec8320f23a": {
+      "file": "ff088292a0c3befbc9ed8ef6b1e7442810eeadc8643b25312905cbec8320f23a.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://eurostreaming.luxe/index.php?do=search",
+      "data": "subaction=search&story=Alien++Pianeta+Terra",
+      "legacyFile": "post-https:eurostreaming.luxeindex.phpdosearch-subactionsearchandstoryAlien++Pianeta+Terra"
+    }
+  },
+  "version": 1
+}

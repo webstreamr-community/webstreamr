@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "8430587952a50daf9f792f3c8891d547720553ee6606aea2496535e91ba5593c": {
+      "file": "8430587952a50daf9f792f3c8891d547720553ee6606aea2496535e91ba5593c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://mixdrop.ag/f/123456789",
+      "legacyFile": "https:mixdrop.agf123456789"
+    },
+    "955dc501655c7cf4815e3df9514761f1d76ac06653037b99664337708087080e": {
+      "file": "955dc501655c7cf4815e3df9514761f1d76ac06653037b99664337708087080e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://mixdrop.my/f/knq0kj8waq44l8",
+      "legacyFile": "https:mixdrop.myfknq0kj8waq44l8"
+    }
+  },
+  "version": 1
+}

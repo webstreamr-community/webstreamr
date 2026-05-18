@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "1efa0f1aee1f7c9904b765866a46fe4f16f65ff943afc79e978e7df58fae677a": {
+      "file": "1efa0f1aee1f7c9904b765866a46fe4f16f65ff943afc79e978e7df58fae677a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://frenchcloud.cam/movie/tt29141112",
+      "legacyFile": "https:frenchcloud.cammoviett29141112"
+    },
+    "4fc390aa567c54a9140578ca91e91ac9aa52f42cc26b7b37e94ac2f38b53c756": {
+      "file": "4fc390aa567c54a9140578ca91e91ac9aa52f42cc26b7b37e94ac2f38b53c756.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://frenchcloud.cam/movie/tt12345678",
+      "legacyFile": "https:frenchcloud.cammoviett12345678"
+    }
+  },
+  "version": 1
+}

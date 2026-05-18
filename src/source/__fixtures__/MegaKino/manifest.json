@@ -1,0 +1,72 @@
+{
+  "entries": {
+    "0667d560576a2ca83f676c1fc725743ab7718a3bed7716ea3ec570c20b2aedd8": {
+      "file": "0667d560576a2ca83f676c1fc725743ab7718a3bed7716ea3ec570c20b2aedd8.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://megakino1.to/films/727-the-lego-movie.html",
+      "legacyFile": "https:megakino1.tofilms727-the-lego-movie.html"
+    },
+    "54fd5c5b34050dba75c29b2c4154531a1a836a62ab0589f8747d72166a5c71a4": {
+      "file": "54fd5c5b34050dba75c29b2c4154531a1a836a62ab0589f8747d72166a5c71a4.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://megakino1.to/",
+      "data": "do=search&subaction=search&story=tt3513498",
+      "legacyFile": "post-https:megakino1.to-dosearchandsubactionsearchandstorytt3513498"
+    },
+    "7317c87f3416530ea47740187e8a1a737b67a6a9170d9286ceb1b68c7e6b6685": {
+      "file": "7317c87f3416530ea47740187e8a1a737b67a6a9170d9286ceb1b68c7e6b6685.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://megakino1.to/",
+      "data": "do=search&subaction=search&story=tt1490017",
+      "legacyFile": "post-https:megakino1.to-dosearchandsubactionsearchandstorytt1490017"
+    },
+    "8e166897203438c5ec66856db3e6baed88ee0071199adb46f9dabc753309ffe1": {
+      "file": "8e166897203438c5ec66856db3e6baed88ee0071199adb46f9dabc753309ffe1.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://megakino1.to/?yg=token",
+      "legacyFile": "head-https:megakino1.toygtoken"
+    },
+    "95ba3c4d07bd66936d1ec5d4ec54ee3a7d8a16b73dc23928215819a6114d8b4c": {
+      "file": "95ba3c4d07bd66936d1ec5d4ec54ee3a7d8a16b73dc23928215819a6114d8b4c.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://megakino1.to/",
+      "data": "do=search&subaction=search&story=tt12345678",
+      "legacyFile": "post-https:megakino1.to-dosearchandsubactionsearchandstorytt12345678"
+    },
+    "a92c5ba1dbd38931df8f1b395f5e1c1e41c14572d60cdb92f23df063aebb068f": {
+      "file": "a92c5ba1dbd38931df8f1b395f5e1c1e41c14572d60cdb92f23df063aebb068f.response.txt",
+      "kind": "response",
+      "method": "POST",
+      "url": "https://megakino1.to/",
+      "data": "do=search&subaction=search&story=tt2245084",
+      "legacyFile": "post-https:megakino1.to-dosearchandsubactionsearchandstorytt2245084"
+    },
+    "ac0de9a0d7467521b4f836bbe7cac32fcebfa783a93c164c17e5f634e2399aee": {
+      "file": "ac0de9a0d7467521b4f836bbe7cac32fcebfa783a93c164c17e5f634e2399aee.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://megakino1.to/adventure/4804-the-lego-movie-2.html",
+      "legacyFile": "https:megakino1.toadventure4804-the-lego-movie-2.html"
+    },
+    "ad9892d47d27c2268ae9626d141aefdcfb5b1f52137b55213a079badb9a78a6b": {
+      "file": "ad9892d47d27c2268ae9626d141aefdcfb5b1f52137b55213a079badb9a78a6b.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://megakino1.to/films/693-baymax-riesiges-robowabohu.html",
+      "legacyFile": "https:megakino1.tofilms693-baymax-riesiges-robowabohu.html"
+    },
+    "b470c491480c29dfe13757216cc2f8683506e474fe46fc9f6ff0840aed75f585": {
+      "file": "b470c491480c29dfe13757216cc2f8683506e474fe46fc9f6ff0840aed75f585.response.txt",
+      "kind": "response",
+      "method": "HEAD",
+      "url": "https://megakino1.to/",
+      "legacyFile": "head-https:megakino1.to"
+    }
+  },
+  "version": 1
+}

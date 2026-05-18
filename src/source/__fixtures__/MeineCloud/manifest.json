@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "652a4b7cd76668dd4193435033bde48758f5cccbeef8098af9d9cda1628627d7": {
+      "file": "652a4b7cd76668dd4193435033bde48758f5cccbeef8098af9d9cda1628627d7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://meinecloud.click/movie/tt29141112",
+      "legacyFile": "https:meinecloud.clickmoviett29141112"
+    },
+    "ff71342899da9735ccfdf145494d498a8e0d2c2207a7eb95cfe374d1668b70cf": {
+      "file": "ff71342899da9735ccfdf145494d498a8e0d2c2207a7eb95cfe374d1668b70cf.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://meinecloud.click/movie/tt12345678",
+      "legacyFile": "https:meinecloud.clickmoviett12345678"
+    }
+  },
+  "version": 1
+}

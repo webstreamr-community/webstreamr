@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "3d9f30cfcd85806170fcbec5bf836a9a26f5d0ffb0d559b6c89eea4f74c609f3": {
+      "file": "3d9f30cfcd85806170fcbec5bf836a9a26f5d0ffb0d559b6c89eea4f74c609f3.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://cdn.dmovies.top/hls2/03/00000/5iz6c1elaqgq_,h,x,.urlset/master.m3u8?t=59WQnICkdOsWf2RrsiNPQmXTU1CUk7gGqBgLvh-MaIU&s=1761923136&e=43200&v=22226828&srv=maxcdn&i=0.3&sp=5000&fr=5iz6c1elaqgq",
+      "legacyFile": "https:cdn.dmovies.tophls203000005iz6c1elaqgq_hx.urlsetmaster.m3u8t59WQnICkdOsWf2RrsiNPQmXTU1CUk7gGqBgLvh-MaIUands1761923136ande43200andv22226828andsrvmaxcdnandi0.3andsp5000andfr5iz6c1elaqgq"
+    },
+    "d960d079346798769cf94b824490a07bffede887d7585bf5e4e49df1420daaa2": {
+      "file": "d960d079346798769cf94b824490a07bffede887d7585bf5e4e49df1420daaa2.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://vidora.stream/5iz6c1elaqgq",
+      "legacyFile": "https:vidora.stream5iz6c1elaqgq"
+    }
+  },
+  "version": 1
+}

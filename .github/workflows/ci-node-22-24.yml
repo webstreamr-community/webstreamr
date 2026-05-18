@@ -8,12 +8,15 @@ on:
 
 jobs:
   build-test:
-    name: Node ${{ matrix.node-version }}
-    runs-on: ubuntu-latest
+    name: ${{ matrix.os }} / Node ${{ matrix.node-version }}
+    runs-on: ${{ matrix.os }}
 
     strategy:
       fail-fast: false
       matrix:
+        os:
+          - ubuntu-latest
+          - windows-latest
         node-version:
           - 22.x
           - 24.x
@@ -31,9 +34,12 @@ jobs:
       - name: Install
         run: npm ci
 
+      - name: Analyse
+        run: npm run analyse
+
       - name: Build
+        if: runner.os == 'Linux'
         run: npm run build --if-present
 
       - name: Test
         run: npm test -- --runInBand
-

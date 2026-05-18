@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "7cc8d4013e1fadc339d9c32bcd154b71ce8b46759753d7e2e290de843a00097c": {
+      "file": "7cc8d4013e1fadc339d9c32bcd154b71ce8b46759753d7e2e290de843a00097c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://i-arch-400.lethe399key.com/stream2/i-arch-400/01df0d24fc785e08a44241ed17dc9aef/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVNlnT6FVNPR1a04kMJlnTUJkaO1WWzklaNFTTHV1daRUW04ERFhnWUFVP:1767971011:193.233.230.8:338a99d2e898667664ed62657ac0b65a05ed7308fe98419b3a65225ee36a7ae1/index.m3u8",
+      "legacyFile": "https:i-arch-400.lethe399key.com-0d4475035df5f2c4950ddec91c1c5007"
+    },
+    "bb327ec57c89e2333ad39f73b8f4632a14709a86b3bb2217a9dbc5a046d73a89": {
+      "file": "bb327ec57c89e2333ad39f73b8f4632a14709a86b3bb2217a9dbc5a046d73a89.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.rgshows.ru/main/tv/66732/5/1",
+      "legacyFile": "https:api.rgshows.rumaintv6673251"
+    },
+    "c3fed48bf20f5247010a8b2bd8cdeb5e4a05ca8f07f976fb05018dd705b9e211": {
+      "file": "c3fed48bf20f5247010a8b2bd8cdeb5e4a05ca8f07f976fb05018dd705b9e211.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://i-cdn-0.lethe399key.com/stream2/i-cdn-0/01df0d24fc785e08a44241ed17dc9aef/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290VZBjTH1kMORVR390RFRTT6lFMPRUS18EVNhnWUtWMapWQ5l1VRJjTHlUP:1767971582:193.233.230.8:3e079e35a7d560d1b37aa2a38f4b3e6cf2d6449ab480651c4c3557eda220addd/index.m3u8",
+      "legacyFile": "https:i-cdn-0.lethe399key.com-ea06cca9877e47ce5f9c274b5c99b941"
+    },
+    "d4078431337c76e3dec5f208570d494da57708d7c4f4456d5672a5533fb0fcbd": {
+      "file": "d4078431337c76e3dec5f208570d494da57708d7c4f4456d5672a5533fb0fcbd.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.rgshows.ru/main/movie/1054867",
+      "legacyFile": "https:api.rgshows.rumainmovie1054867"
+    },
+    "e03fd843f57628602666e3112c0d6ce6f6543f0c5877b06bbc93d1d79766117e": {
+      "file": "e03fd843f57628602666e3112c0d6ce6f6543f0c5877b06bbc93d1d79766117e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.rgshows.ru/main/movie/496243",
+      "legacyFile": "https:api.rgshows.rumainmovie496243"
+    }
+  },
+  "version": 1
+}

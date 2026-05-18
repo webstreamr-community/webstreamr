@@ -1,0 +1,47 @@
+{
+  "entries": {
+    "20d4034dcd5f32b499d431fa34af3334f0472b5de7c714ab8ca8d58cfa7eeb64": {
+      "file": "20d4034dcd5f32b499d431fa34af3334f0472b5de7c714ab8ca8d58cfa7eeb64.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt29141112?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt29141112external_sourceimdb_id"
+    },
+    "456b78d700fa966bb9ea3baf07302ff8a3508e139e85e3f5fb6fc38bbedb24b7": {
+      "file": "456b78d700fa966bb9ea3baf07302ff8a3508e139e85e3f5fb6fc38bbedb24b7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt2085059?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt2085059external_sourceimdb_id"
+    },
+    "8dce258c01453f066582ceae317223cf002840490552bf4a1ed78da4ab777c18": {
+      "file": "8dce258c01453f066582ceae317223cf002840490552bf4a1ed78da4ab777c18.error.txt",
+      "kind": "error",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/12345678/external_ids",
+      "legacyFile": "https:api.themoviedb.org3tv12345678external_ids.error"
+    },
+    "c2b6cfdf5b3901fe4386a0fdafd5e289069664ecce6c9924163f4ffd1adf0019": {
+      "file": "c2b6cfdf5b3901fe4386a0fdafd5e289069664ecce6c9924163f4ffd1adf0019.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt12345678?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt12345678external_sourceimdb_id"
+    },
+    "df9e2a5f81f15743ace458700a3edb2efcb665119a0cce33ac67abd702a21847": {
+      "file": "df9e2a5f81f15743ace458700a3edb2efcb665119a0cce33ac67abd702a21847.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/42009/external_ids",
+      "legacyFile": "https:api.themoviedb.org3tv42009external_ids"
+    },
+    "f2a4751e777785979dcc3e8b2ccb90a5a1372ac9ec2c8bc4c5021051edc61321": {
+      "file": "f2a4751e777785979dcc3e8b2ccb90a5a1372ac9ec2c8bc4c5021051edc61321.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/931944/external_ids",
+      "legacyFile": "https:api.themoviedb.org3movie931944external_ids"
+    }
+  },
+  "version": 1
+}

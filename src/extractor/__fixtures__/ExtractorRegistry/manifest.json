@@ -1,0 +1,26 @@
+{
+  "entries": {
+    "37259418927e4ee478effe35dcc8ccca65af5f655daf67ad9a452f09a42c5a32": {
+      "file": "37259418927e4ee478effe35dcc8ccca65af5f655daf67ad9a452f09a42c5a32.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://dropload.io/lyo2h1snpe5c.html",
+      "legacyFile": "https:dropload.iolyo2h1snpe5c.html"
+    },
+    "96f6d4ab872b6d327f82bb34ce5385cc87afbcc44d7f197b827f3a3cfed5184b": {
+      "file": "96f6d4ab872b6d327f82bb34ce5385cc87afbcc44d7f197b827f3a3cfed5184b.error.txt",
+      "kind": "error",
+      "method": "GET",
+      "url": "https://dropload.io/mocked-blocked.html",
+      "legacyFile": "https:dropload.iomocked-blocked.html.error"
+    },
+    "f7187fc0c2ca6dfb0d8926dc2a1ff3b7fc682e37ed1e7e5bb99eee1f4d83cc49": {
+      "file": "f7187fc0c2ca6dfb0d8926dc2a1ff3b7fc682e37ed1e7e5bb99eee1f4d83cc49.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://dropload.io/asdfghijklmn.html",
+      "legacyFile": "https:dropload.ioasdfghijklmn.html"
+    }
+  },
+  "version": 1
+}
