@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "025216415ab542f82bd0951291e70995029403986fafa33d05c86877fda409ed": {
+      "file": "025216415ab542f82bd0951291e70995029403986fafa33d05c86877fda409ed.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://cinehdplus.gratis/peliculas/9582-black-mirror-ver-online-hd.html",
+      "legacyFile": "https:cinehdplus.gratispeliculas9582-black-mirror-ver-online-hd.html"
+    },
+    "12259427b6fc6ae7f45d6cdf12e5babc5a34a8a20febf0fa5fe22f8d116d7454": {
+      "file": "12259427b6fc6ae7f45d6cdf12e5babc5a34a8a20febf0fa5fe22f8d116d7454.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://cinehdplus.gratis/peliculas/19678-babylon-5-ver-online-hd.html",
+      "legacyFile": "https:cinehdplus.gratispeliculas19678-babylon-5-ver-online-hd.html"
+    },
+    "a2725c6f648711ecbdb33998526c7034f458db541a03d1693f7003ee7493f3b0": {
+      "file": "a2725c6f648711ecbdb33998526c7034f458db541a03d1693f7003ee7493f3b0.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://cinehdplus.gratis/series/?story=12345678&do=search&subaction=search",
+      "legacyFile": "https:cinehdplus.gratisseriesstory12345678anddosearchandsubactionsearch"
+    },
+    "b35128dd922fe517018ba19d4a324909fae552d3ba13f00529e3994df6f9047d": {
+      "file": "b35128dd922fe517018ba19d4a324909fae552d3ba13f00529e3994df6f9047d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://cinehdplus.gratis/series/?story=3137&do=search&subaction=search",
+      "legacyFile": "https:cinehdplus.gratisseriesstory3137anddosearchandsubactionsearch"
+    },
+    "caec2e9cb6076ae46350bf352024099e4faf3792d116f38db43da2c4d8901cec": {
+      "file": "caec2e9cb6076ae46350bf352024099e4faf3792d116f38db43da2c4d8901cec.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://cinehdplus.gratis/series/?story=42009&do=search&subaction=search",
+      "legacyFile": "https:cinehdplus.gratisseriesstory42009anddosearchandsubactionsearch"
+    }
+  },
+  "version": 1
+}

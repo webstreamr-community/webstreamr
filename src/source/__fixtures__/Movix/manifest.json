@@ -1,0 +1,61 @@
+{
+  "entries": {
+    "26426b87cfa7999e32f78daee77e35091f91baab3a98c11b5ac01ee0b9e03e92": {
+      "file": "26426b87cfa7999e32f78daee77e35091f91baab3a98c11b5ac01ee0b9e03e92.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/548473",
+      "legacyFile": "https:api.themoviedb.org3movie548473"
+    },
+    "3e2a9567e5a1d5542eacc40a8692b2399dcbd8f524dc94ef0055c4b31df2cfb5": {
+      "file": "3e2a9567e5a1d5542eacc40a8692b2399dcbd8f524dc94ef0055c4b31df2cfb5.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/3176",
+      "legacyFile": "https:api.themoviedb.org3movie3176"
+    },
+    "614100972e43aaaca9ba43f61aa9e2c0a6f05e3be88b573991a7074d46ae433d": {
+      "file": "614100972e43aaaca9ba43f61aa9e2c0a6f05e3be88b573991a7074d46ae433d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.movix.site/api/tmdb/movie/3176",
+      "legacyFile": "https:api.movix.siteapitmdbmovie3176"
+    },
+    "883b2314be16402aa1e8db855c9665196410054055a9e9c1bb3bc8cc8688b905": {
+      "file": "883b2314be16402aa1e8db855c9665196410054055a9e9c1bb3bc8cc8688b905.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.movix.site/api/tmdb/tv/46080?season=1&episode=999",
+      "legacyFile": "https:api.movix.siteapitmdbtv46080season1andepisode999"
+    },
+    "a52a951b4e3891c654efc8b0355f498d328e0345e8c170e01e65616dd343c076": {
+      "file": "a52a951b4e3891c654efc8b0355f498d328e0345e8c170e01e65616dd343c076.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.movix.site/api/tmdb/movie/548473",
+      "legacyFile": "https:api.movix.siteapitmdbmovie548473"
+    },
+    "b2406fbb8b8c86330276281435d353f4faa01139c4422214e8c6b77c8ad6edd2": {
+      "file": "b2406fbb8b8c86330276281435d353f4faa01139c4422214e8c6b77c8ad6edd2.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.movix.site/api/tmdb/tv/42009?season=4&episode=2",
+      "legacyFile": "https:api.movix.siteapitmdbtv42009season4andepisode2"
+    },
+    "be372384342836b8a5b0c4a68827802866a1ddf963d682497a398b74b28be573": {
+      "file": "be372384342836b8a5b0c4a68827802866a1ddf963d682497a398b74b28be573.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/42009",
+      "legacyFile": "https:api.themoviedb.org3tv42009"
+    },
+    "ea90eb43bdaa0a58b93a6c23a4b19ae8b9faa0462fc07884fad5bb74e68aed09": {
+      "file": "ea90eb43bdaa0a58b93a6c23a4b19ae8b9faa0462fc07884fad5bb74e68aed09.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/46080",
+      "legacyFile": "https:api.themoviedb.org3tv46080"
+    }
+  },
+  "version": 1
+}

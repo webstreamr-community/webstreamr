@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "3dfbce96303fe4c6379fe0e03244e90bbf95934d91e6e5fce99024b85456c44f": {
+      "file": "3dfbce96303fe4c6379fe0e03244e90bbf95934d91e6e5fce99024b85456c44f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://watch.gxplayer.xyz/watch?v=PBO90WAS",
+      "legacyFile": "https:watch.gxplayer.xyzwatchvPBO90WAS"
+    },
+    "8f34f68d2ca64c6a6ed5dcc3453f00a17af1b6300a8409349bb4de523fe4c48b": {
+      "file": "8f34f68d2ca64c6a6ed5dcc3453f00a17af1b6300a8409349bb4de523fe4c48b.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://watch.gxplayer.xyz/watch?v=MEKI92PU",
+      "legacyFile": "https:watch.gxplayer.xyzwatchvMEKI92PU"
+    }
+  },
+  "version": 1
+}

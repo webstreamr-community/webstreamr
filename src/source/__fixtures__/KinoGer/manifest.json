@@ -1,0 +1,110 @@
+{
+  "entries": {
+    "1027b1576874a2017413a07261be9973ebdb836ca269458e3adf74390e02b16e": {
+      "file": "1027b1576874a2017413a07261be9973ebdb836ca269458e3adf74390e02b16e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1233413?language=de",
+      "legacyFile": "https:api.themoviedb.org3movie1233413languagede"
+    },
+    "1e98b177d8f7acf90131501852d6fee5f19af8a54e27267f209469cea342e058": {
+      "file": "1e98b177d8f7acf90131501852d6fee5f19af8a54e27267f209469cea342e058.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1427398?language=de",
+      "legacyFile": "https:api.themoviedb.org3movie1427398languagede"
+    },
+    "20ee7e4a457ee2cda29f121368aa72a0c0a4a14150640a13277ecebf1c41f1a6": {
+      "file": "20ee7e4a457ee2cda29f121368aa72a0c0a4a14150640a13277ecebf1c41f1a6.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/42009?language=de",
+      "legacyFile": "https:api.themoviedb.org3tv42009languagede"
+    },
+    "3f4e53c706810c70e01b8d319441214112f686f8b33eb1a935cc12d9ee3151ba": {
+      "file": "3f4e53c706810c70e01b8d319441214112f686f8b33eb1a935cc12d9ee3151ba.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kinoger.com/stream/15771-black-mirror-2011.html",
+      "legacyFile": "https:kinoger.comstream15771-black-mirror-2011.html"
+    },
+    "456b78d700fa966bb9ea3baf07302ff8a3508e139e85e3f5fb6fc38bbedb24b7": {
+      "file": "456b78d700fa966bb9ea3baf07302ff8a3508e139e85e3f5fb6fc38bbedb24b7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt2085059?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt2085059external_sourceimdb_id"
+    },
+    "722a76e99660cd145e5edab6763fb2a47cbcd42f644ddebcd754a9759be9c452": {
+      "file": "722a76e99660cd145e5edab6763fb2a47cbcd42f644ddebcd754a9759be9c452.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/194583?language=de",
+      "legacyFile": "https:api.themoviedb.org3tv194583languagede"
+    },
+    "8079c6ab3a9eb9c244ce20b15eb32e149a7a278287fd1904704bd733c140930d": {
+      "file": "8079c6ab3a9eb9c244ce20b15eb32e149a7a278287fd1904704bd733c140930d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt31193180?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt31193180external_sourceimdb_id"
+    },
+    "8b31180c64d24afafd0ed6c2b9aa6ca8ba187f338c558e779d33428e46e83a19": {
+      "file": "8b31180c64d24afafd0ed6c2b9aa6ca8ba187f338c558e779d33428e46e83a19.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kinoger.com/stream/12971-the-walking-dead-dead-city-stream.html",
+      "legacyFile": "https:kinoger.comstream12971-the-walking-dead-dead-city-stream.html"
+    },
+    "94baf7f8ff0c4bac0ed5a395deb6cf606434bd840aa98c829fd2bdebb7196a37": {
+      "file": "94baf7f8ff0c4bac0ed5a395deb6cf606434bd840aa98c829fd2bdebb7196a37.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kinoger.com/?do=search&subaction=search&titleonly=3&story=Black%20Mirror&x=0&y=0&submit=submit",
+      "legacyFile": "https:kinoger.comdosearchandsubactionsearchandtitleonly3andstoryBlackpercent20Mirrorandx0andy0andsubmitsubmit"
+    },
+    "a21c6c818bcf741d87587e3a4430f34418959053f719979fdb11591401718a34": {
+      "file": "a21c6c818bcf741d87587e3a4430f34418959053f719979fdb11591401718a34.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kinoger.com/stream/18809-blood-sinners-stream.html",
+      "legacyFile": "https:kinoger.comstream18809-blood-sinners-stream.html"
+    },
+    "c2b6cfdf5b3901fe4386a0fdafd5e289069664ecce6c9924163f4ffd1adf0019": {
+      "file": "c2b6cfdf5b3901fe4386a0fdafd5e289069664ecce6c9924163f4ffd1adf0019.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt12345678?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt12345678external_sourceimdb_id"
+    },
+    "c4f487e5b2b9a2ad184321a3a3c1915fed9b41bcdc639a187501f59ab2116188": {
+      "file": "c4f487e5b2b9a2ad184321a3a3c1915fed9b41bcdc639a187501f59ab2116188.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kinoger.com/?do=search&subaction=search&titleonly=3&story=Blood%20%26%20Sinners&x=0&y=0&submit=submit",
+      "legacyFile": "https:kinoger.comdosearchandsubactionsearchandtitleonly3andstoryBloodpercent20percent26percent20Sinnersandx0andy0andsubmitsubmit"
+    },
+    "db7d56d0c1d375a95aba770b8a652739238b859415e88dc89722263c28c7d3a7": {
+      "file": "db7d56d0c1d375a95aba770b8a652739238b859415e88dc89722263c28c7d3a7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kinoger.com/?do=search&subaction=search&titleonly=3&story=The%20Walking%20Dead%3A%20Dead%20City&x=0&y=0&submit=submit",
+      "legacyFile": "https:kinoger.comdosearchandsubactionsearchandtitleonly3andstoryThepercent20Walkingpercent20Deadpercent3Apercent20Deadpercent20Cityandx0andy0andsubmitsubmit"
+    },
+    "df3fbf973fd1788ff65dd925734698e26b8787009d33da0cc51776db35bbd63f": {
+      "file": "df3fbf973fd1788ff65dd925734698e26b8787009d33da0cc51776db35bbd63f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kinoger.com/?do=search&subaction=search&titleonly=3&story=Hold%20%26%20Kick&x=0&y=0&submit=submit",
+      "legacyFile": "https:kinoger.comdosearchandsubactionsearchandtitleonly3andstoryHoldpercent20percent26percent20Kickandx0andy0andsubmitsubmit"
+    },
+    "f0c21ce36d6c959b82e8c0a2b9aabcb1651d3fc0003c4731e60e386dc584e7d3": {
+      "file": "f0c21ce36d6c959b82e8c0a2b9aabcb1651d3fc0003c4731e60e386dc584e7d3.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/find/tt18546730?external_source=imdb_id",
+      "legacyFile": "https:api.themoviedb.org3findtt18546730external_sourceimdb_id"
+    }
+  },
+  "version": 1
+}

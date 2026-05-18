@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "5a73c96326eb87823bc6ec6b67585412d6b5dce4cf99369721f245acfe3dd2e7": {
+      "file": "5a73c96326eb87823bc6ec6b67585412d6b5dce4cf99369721f245acfe3dd2e7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "http://dood.to/e/cz7cus0bvlzr",
+      "legacyFile": "http:dood.toecz7cus0bvlzr"
+    },
+    "bd8dac01457698d5ef71659e0b15affa2ad1100428cf260625c464b98396a32f": {
+      "file": "bd8dac01457698d5ef71659e0b15affa2ad1100428cf260625c464b98396a32f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "http://dood.to/d/sk1m9eumzyjj",
+      "legacyFile": "http:dood.todsk1m9eumzyjj"
+    },
+    "d304a0c36ca69a4c5fd6fe7a05b008d3f583e83bc6d46821c6e13ed48fd3627a": {
+      "file": "d304a0c36ca69a4c5fd6fe7a05b008d3f583e83bc6d46821c6e13ed48fd3627a.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "http://dood.to/d/dfx8me4un4ul",
+      "legacyFile": "http:dood.toddfx8me4un4ul"
+    },
+    "d8840e11422f3766fb10770a15d60abadaaa9b9c42159249a73b59bfb0f15a0c": {
+      "file": "d8840e11422f3766fb10770a15d60abadaaa9b9c42159249a73b59bfb0f15a0c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "http://dood.to/e/sk1m9eumzyjj",
+      "legacyFile": "http:dood.toesk1m9eumzyjj"
+    },
+    "e72fa6b7b37242c8f3e94cdd003a428f0eb337cbb3ecf32d32d2bcaa819cdddc": {
+      "file": "e72fa6b7b37242c8f3e94cdd003a428f0eb337cbb3ecf32d32d2bcaa819cdddc.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "http://dood.to/e/dfx8me4un4ul",
+      "legacyFile": "http:dood.toedfx8me4un4ul"
+    }
+  },
+  "version": 1
+}

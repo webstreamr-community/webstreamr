@@ -1,0 +1,26 @@
+{
+  "entries": {
+    "5199104dffacd8394895878ae760a5fa0f000de0458322b5f32bb7e4b9d76ed1": {
+      "file": "5199104dffacd8394895878ae760a5fa0f000de0458322b5f32bb7e4b9d76ed1.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://mediaflow-proxy.test/extractor/video?host=Fastream&api_password=asdfg&d=https%3A%2F%2Ffastream.to%2Fembed-3aooif4ozt10.html&h_referer=https%3A%2F%2Ffastream.to%2Fembed-3aooif4ozt10.html",
+      "legacyFile": "https:mediaflow-proxy.testextractorvideohostFastreamandapi_passwordasdfganddhttpspercent3Apercent2Fpercent2Ffastream.topercent2Fembed-3aooif4ozt10.htmlandh_refererhttpspercent3Apercent2Fpercent2Ffastream.topercent2Fembed-3aooif4ozt10.html"
+    },
+    "8fb202a00317d0c79e506107e3682c09db98402dd36aebe425bb8025b81a4d62": {
+      "file": "8fb202a00317d0c79e506107e3682c09db98402dd36aebe425bb8025b81a4d62.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://fastream.to/d/3aooif4ozt10.html",
+      "legacyFile": "https:fastream.tod3aooif4ozt10.html"
+    },
+    "d968bb28d648d1f7e1349301c841c549f2a5d535a1669187f0381905af4c7bd9": {
+      "file": "d968bb28d648d1f7e1349301c841c549f2a5d535a1669187f0381905af4c7bd9.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://fastream.to/d/a9rp1d1pqom7.html",
+      "legacyFile": "https:fastream.toda9rp1d1pqom7.html"
+    }
+  },
+  "version": 1
+}

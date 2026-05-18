@@ -1,0 +1,12 @@
+{
+  "entries": {
+    "389295e470e62a05940e9fa512259a82584f6cbc370e580aa4d740b94d5e9c5e": {
+      "file": "389295e470e62a05940e9fa512259a82584f6cbc370e580aa4d740b94d5e9c5e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://einschalten.in/api/movies/1061474/watch",
+      "legacyFile": "https:einschalten.inapimovies1061474watch"
+    }
+  },
+  "version": 1
+}

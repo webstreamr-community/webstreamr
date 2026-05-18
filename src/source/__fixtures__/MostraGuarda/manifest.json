@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "71fea6ae82e9cd0d43a24833a0d23e3bcd7ae550c5f5bbb49ab33593df06ac64": {
+      "file": "71fea6ae82e9cd0d43a24833a0d23e3bcd7ae550c5f5bbb49ab33593df06ac64.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://mostraguarda.stream/movie/tt12345678",
+      "legacyFile": "https:mostraguarda.streammoviett12345678"
+    },
+    "a653d01cf131020894c3f0e30dbdc9273beee49570f7c791272bd0d84e5880f9": {
+      "file": "a653d01cf131020894c3f0e30dbdc9273beee49570f7c791272bd0d84e5880f9.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://mostraguarda.stream/movie/tt29141112",
+      "legacyFile": "https:mostraguarda.streammoviett29141112"
+    }
+  },
+  "version": 1
+}

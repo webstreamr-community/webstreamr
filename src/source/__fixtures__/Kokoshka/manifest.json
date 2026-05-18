@@ -1,0 +1,215 @@
+{
+  "entries": {
+    "02413b12c3090bb9936e8ccb98b0946ba138cf8c6bf938c448d728d57c52676c": {
+      "file": "02413b12c3090bb9936e8ccb98b0946ba138cf8c6bf938c448d728d57c52676c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/95449/movie/1",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv295449movie1"
+    },
+    "1b8f7ac33f27979f8988dab6275cd28ba8de46f07ddfa64d769fb5a137052e67": {
+      "file": "1b8f7ac33f27979f8988dab6275cd28ba8de46f07ddfa64d769fb5a137052e67.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/filma/our-fault-2025-me-titra-shqip/",
+      "legacyFile": "https:kokoshka.digitalfilmaour-fault-2025-me-titra-shqip"
+    },
+    "1c8e0c5110c93277f358d22af78e096f81cf4c5b7dac3e34fb8e14a901a869a3": {
+      "file": "1c8e0c5110c93277f358d22af78e096f81cf4c5b7dac3e34fb8e14a901a869a3.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/158117/movie/1",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv2158117movie1"
+    },
+    "222786796bf5d4cb6b3740a14864628c56eab98751c62015e67c783693f31217": {
+      "file": "222786796bf5d4cb6b3740a14864628c56eab98751c62015e67c783693f31217.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/160439/tv/1",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv2160439tv1"
+    },
+    "2a7533345a4a576f4ced760b5f04a4d2fee8bd470b8aeb039a8cf28a25faae69": {
+      "file": "2a7533345a4a576f4ced760b5f04a4d2fee8bd470b8aeb039a8cf28a25faae69.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1213327?language=sq",
+      "legacyFile": "https:api.themoviedb.org3movie1213327languagesq"
+    },
+    "2f4eea98fc21237f7af91810a24e974a140758cf596ee07c91164817ecbd9803": {
+      "file": "2f4eea98fc21237f7af91810a24e974a140758cf596ee07c91164817ecbd9803.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/158117/movie/2",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv2158117movie2"
+    },
+    "349f9ca23f0b3d5993b2a0bba30421916ff60cbb57b7c9137ea6a3cca199f219": {
+      "file": "349f9ca23f0b3d5993b2a0bba30421916ff60cbb57b7c9137ea6a3cca199f219.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1242404?language=sq",
+      "legacyFile": "https:api.themoviedb.org3movie1242404languagesq"
+    },
+    "4156d804e62b71208905a4dc1f18914fa220b62ab13704de55a577de983141b4": {
+      "file": "4156d804e62b71208905a4dc1f18914fa220b62ab13704de55a577de983141b4.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/episodi/monster-the-ed-gein-story-1x3-me-titra-shqip/",
+      "legacyFile": "https:kokoshka.digitalepisodimonster-the-ed-gein-story-1x3-me-titra-shqip"
+    },
+    "42abb3130a4b3cda80a6ad22201addb05b39d1f909ac69fde108277e8d6aa9b5": {
+      "file": "42abb3130a4b3cda80a6ad22201addb05b39d1f909ac69fde108277e8d6aa9b5.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/95449/movie/2",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv295449movie2"
+    },
+    "42e352e8f12013e69d901162372a731a626b25dd8d3f2080dd32858f8b1037e2": {
+      "file": "42e352e8f12013e69d901162372a731a626b25dd8d3f2080dd32858f8b1037e2.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/?s=5%20Her%C3%AB%20Jo%202023",
+      "legacyFile": "https:kokoshka.digitals5percent20HerpercentC3percentABpercent20Jopercent202023"
+    },
+    "499ca74787d2113931b72782ffbf44ae3f5db9d560c419efb55488fed5b0329f": {
+      "file": "499ca74787d2113931b72782ffbf44ae3f5db9d560c419efb55488fed5b0329f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/161211/movie/1",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv2161211movie1"
+    },
+    "50133a6e0b0ae5241249e0b5eedc9109d5628f93a17c4eac8c86b6fd878d0f9f": {
+      "file": "50133a6e0b0ae5241249e0b5eedc9109d5628f93a17c4eac8c86b6fd878d0f9f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/160439/tv/2",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv2160439tv2"
+    },
+    "65bcc3222ca38b59863171bb94fd133ddd1d42b175ad43c6f1a5ad0e3745e1f7": {
+      "file": "65bcc3222ca38b59863171bb94fd133ddd1d42b175ad43c6f1a5ad0e3745e1f7.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1078605?language=sq",
+      "legacyFile": "https:api.themoviedb.org3movie1078605languagesq"
+    },
+    "6842d29124ca4a9f34a76fddd6c544ecd04ccd475b18d9fa32be48ca41897ee1": {
+      "file": "6842d29124ca4a9f34a76fddd6c544ecd04ccd475b18d9fa32be48ca41897ee1.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/286801?language=sq",
+      "legacyFile": "https:api.themoviedb.org3tv286801languagesq"
+    },
+    "70c958c351343f57da02d267425aa8f08b747199856c4ea37eefd9357677bfc3": {
+      "file": "70c958c351343f57da02d267425aa8f08b747199856c4ea37eefd9357677bfc3.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/95449/movie/3",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv295449movie3"
+    },
+    "72b4ddc9c736c9ac8fd081c609d601648884402adcfded195931eb3cabfac878": {
+      "file": "72b4ddc9c736c9ac8fd081c609d601648884402adcfded195931eb3cabfac878.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/?s=Our%20Fault%202025",
+      "legacyFile": "https:kokoshka.digitalsOurpercent20Faultpercent202025"
+    },
+    "7a80e429d05fc3fd0cf56e303126c49b0ce8bd5ee0ad245efd40bf5beef3513c": {
+      "file": "7a80e429d05fc3fd0cf56e303126c49b0ce8bd5ee0ad245efd40bf5beef3513c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/?s=Culpa%20nuestra%202025",
+      "legacyFile": "https:kokoshka.digitalsCulpapercent20nuestrapercent202025"
+    },
+    "7a9e93eac5b55eddefd74372eda2b260c9a138444821f32e4089b7cf68f9dea6": {
+      "file": "7a9e93eac5b55eddefd74372eda2b260c9a138444821f32e4089b7cf68f9dea6.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/filma/5-here-jo-2023-filmi-i-plote-shiko-online-falas-film-shqiptar/",
+      "legacyFile": "https:kokoshka.digitalfilma5-here-jo-2023-filmi-i-plote-shiko-online-falas-film-shqiptar"
+    },
+    "833d015022b73442f3fe7bd22c26c9c1b1eae2c4bbf96b74511808f81c8cfc03": {
+      "file": "833d015022b73442f3fe7bd22c26c9c1b1eae2c4bbf96b74511808f81c8cfc03.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/wp-json/dooplayer/v2/161211/movie/2",
+      "legacyFile": "https:kokoshka.digitalwp-jsondooplayerv2161211movie2"
+    },
+    "8c4ccf9c78317f3fcae0a350c1f1fc2fab7fd7ac7e3b438c341f4198b3e376a2": {
+      "file": "8c4ccf9c78317f3fcae0a350c1f1fc2fab7fd7ac7e3b438c341f4198b3e376a2.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/?s=Monster%20The%20Ed%20Gein%20Story%202025",
+      "legacyFile": "https:kokoshka.digitalsMonsterpercent20Thepercent20Edpercent20Geinpercent20Storypercent202025"
+    },
+    "a3254a9bca7ec7553bdf842458f29ef74a4ab0b987c3e6420a410e035e80136d": {
+      "file": "a3254a9bca7ec7553bdf842458f29ef74a4ab0b987c3e6420a410e035e80136d.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/287877?language=sq",
+      "legacyFile": "https:api.themoviedb.org3tv287877languagesq"
+    },
+    "a9413051ea173df2576c158518e77f1fc08e8d3fb5faa1f38160c0a53d09a19e": {
+      "file": "a9413051ea173df2576c158518e77f1fc08e8d3fb5faa1f38160c0a53d09a19e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/287877?language=en",
+      "legacyFile": "https:api.themoviedb.org3tv287877languageen"
+    },
+    "ac1d4631bd96991e4457f5139ade76fb9ff1a40edaf864547d35a9e65bd7610e": {
+      "file": "ac1d4631bd96991e4457f5139ade76fb9ff1a40edaf864547d35a9e65bd7610e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/seriale/monster-the-ed-gein-story-2025-me-titra-shqip/",
+      "legacyFile": "https:kokoshka.digitalserialemonster-the-ed-gein-story-2025-me-titra-shqip"
+    },
+    "b353c49af6799957239e3af96f93d94d4ce9ffa632aabdd872bbd3cb3687b598": {
+      "file": "b353c49af6799957239e3af96f93d94d4ce9ffa632aabdd872bbd3cb3687b598.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/?s=Weapons%202025",
+      "legacyFile": "https:kokoshka.digitalsWeaponspercent202025"
+    },
+    "beb1072591ee5ccfa5a85411388f6b8bdfd0df3c6425960c0c850beaa75f1138": {
+      "file": "beb1072591ee5ccfa5a85411388f6b8bdfd0df3c6425960c0c850beaa75f1138.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/?s=Drunter%20%26%20Dr%C3%BCber%20-%20Chaos%20auf%20dem%20Friedhof%202025",
+      "legacyFile": "https:kokoshka.digitalsDrunterpercent20percent26percent20DrpercentC3percentBCberpercent20-percent20Chaospercent20aufpercent20dempercent20Friedhofpercent202025"
+    },
+    "c85b7f7c94b9404d882c59bc41278918957ff1accc5a5e9eb85aff4005e90215": {
+      "file": "c85b7f7c94b9404d882c59bc41278918957ff1accc5a5e9eb85aff4005e90215.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/filma/weapons-2025-me-titra-shqip/",
+      "legacyFile": "https:kokoshka.digitalfilmaweapons-2025-me-titra-shqip"
+    },
+    "d7b5ad9c47759a07417c1e608d068f887c07279e92f249008268989cfb3a51c4": {
+      "file": "d7b5ad9c47759a07417c1e608d068f887c07279e92f249008268989cfb3a51c4.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1156594?language=sq",
+      "legacyFile": "https:api.themoviedb.org3movie1156594languagesq"
+    },
+    "e26fe5dd2d8d560d86b4006d0c8a5b5c47d0cad55c239664476265ea7b0e30a4": {
+      "file": "e26fe5dd2d8d560d86b4006d0c8a5b5c47d0cad55c239664476265ea7b0e30a4.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://kokoshka.digital/?s=Steve%202025",
+      "legacyFile": "https:kokoshka.digitalsStevepercent202025"
+    },
+    "ee7337b19d3dd0c084c66b7864840aba8f20f7af3a7ff4916f6bca64d6e6baed": {
+      "file": "ee7337b19d3dd0c084c66b7864840aba8f20f7af3a7ff4916f6bca64d6e6baed.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1156594?language=en",
+      "legacyFile": "https:api.themoviedb.org3movie1156594languageen"
+    },
+    "f0ed036e7f8fc7c6550092d97850e001747c3582e11ab199ac75e7d5fa3c44ca": {
+      "file": "f0ed036e7f8fc7c6550092d97850e001747c3582e11ab199ac75e7d5fa3c44ca.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/1242404?language=en",
+      "legacyFile": "https:api.themoviedb.org3movie1242404languageen"
+    }
+  },
+  "version": 1
+}

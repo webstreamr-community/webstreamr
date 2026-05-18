@@ -1,0 +1,131 @@
+{
+  "entries": {
+    "0eb0b8a3efe7e15d32ec867929d843da43ea415262e85dff484d46050a858b2b": {
+      "file": "0eb0b8a3efe7e15d32ec867929d843da43ea415262e85dff484d46050a858b2b.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/episode/the-walking-dead-temporada-1-capitulo-1",
+      "legacyFile": "https:www3.homecine.toepisodethe-walking-dead-temporada-1-capitulo-1"
+    },
+    "19c7f2d245ed1050d2b0e94d3031c35248d905ef4be470643d922990e38469b6": {
+      "file": "19c7f2d245ed1050d2b0e94d3031c35248d905ef4be470643d922990e38469b6.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/559969?language=es",
+      "legacyFile": "https:api.themoviedb.org3movie559969languagees"
+    },
+    "2374ba3c71dd51f7df56f4615a53584b766441608857b4db53958f336425c36c": {
+      "file": "2374ba3c71dd51f7df56f4615a53584b766441608857b4db53958f336425c36c.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/67178?language=es",
+      "legacyFile": "https:api.themoviedb.org3tv67178languagees"
+    },
+    "3321e9e88e1a44b879bfd88a0c6e29f313b54ef3ea178adf5310780aee296c42": {
+      "file": "3321e9e88e1a44b879bfd88a0c6e29f313b54ef3ea178adf5310780aee296c42.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/el-camino-una-pelicula-de-breaking-bad",
+      "legacyFile": "https:www3.homecine.toel-camino-una-pelicula-de-breaking-bad"
+    },
+    "3e6ee6cda7b93ff95d062972806b384a4063407d68db03aef588f99589472ea3": {
+      "file": "3e6ee6cda7b93ff95d062972806b384a4063407d68db03aef588f99589472ea3.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/?s=%E3%83%90%E3%83%88%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%AF%E3%82%A4%E3%82%A2%E3%83%AB",
+      "legacyFile": "https:www3.homecine.to-e702ccf099fd630643daabd6e2d6ec65"
+    },
+    "4085c555acae7b6fedd0533b32879423287f26c2d92641e49a033104276bb08e": {
+      "file": "4085c555acae7b6fedd0533b32879423287f26c2d92641e49a033104276bb08e.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/?s=El%20Camino%3A%20Una%20pel%C3%ADcula%20de%20Breaking%20Bad",
+      "legacyFile": "https:www3.homecine.tosElpercent20Caminopercent3Apercent20Unapercent20pelpercentC3percentADculapercent20depercent20Breakingpercent20Bad"
+    },
+    "4a989143a9bc8e03f3657d1a032b8b80dd44ffe9b4e7e260c30b7c0a2ca76ec5": {
+      "file": "4a989143a9bc8e03f3657d1a032b8b80dd44ffe9b4e7e260c30b7c0a2ca76ec5.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/?s=Here%20Today",
+      "legacyFile": "https:www3.homecine.tosHerepercent20Today"
+    },
+    "70fa93898b38e389db459e775f79e621109ab0011c743bfbda1cf449b008e140": {
+      "file": "70fa93898b38e389db459e775f79e621109ab0011c743bfbda1cf449b008e140.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/711475?language=es",
+      "legacyFile": "https:api.themoviedb.org3movie711475languagees"
+    },
+    "828306e586c3cb82a3a982d33a4121043366321c4b5a012faa4a8ae9402e078f": {
+      "file": "828306e586c3cb82a3a982d33a4121043366321c4b5a012faa4a8ae9402e078f.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/?s=Marvel%20-%20The%20Punisher",
+      "legacyFile": "https:www3.homecine.tosMarvelpercent20-percent20Thepercent20Punisher"
+    },
+    "83da3d772ad9dd25a813dd671e6d39ce47fbc91b82e16acae175cb58fc745dce": {
+      "file": "83da3d772ad9dd25a813dd671e6d39ce47fbc91b82e16acae175cb58fc745dce.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/series/serie-the-walking-dead-cualquier-idioma",
+      "legacyFile": "https:www3.homecine.toseriesserie-the-walking-dead-cualquier-idioma"
+    },
+    "88e0498171436d3a624f2806791dbfd5ed3d607badabfaa34415850b33faf3c9": {
+      "file": "88e0498171436d3a624f2806791dbfd5ed3d607badabfaa34415850b33faf3c9.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/series/marvel-the-punisher",
+      "legacyFile": "https:www3.homecine.toseriesmarvel-the-punisher"
+    },
+    "895fcb5a82ac1c7f89a8b2419a2b44c5c0c91a64128737769175291a16559b65": {
+      "file": "895fcb5a82ac1c7f89a8b2419a2b44c5c0c91a64128737769175291a16559b65.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/?s=The%20Walking%20Dead",
+      "legacyFile": "https:www3.homecine.tosThepercent20Walkingpercent20Dead"
+    },
+    "9eb10ab9c43a17751945013f70646955d81e355e08a4009ed70a7ff8ad691800": {
+      "file": "9eb10ab9c43a17751945013f70646955d81e355e08a4009ed70a7ff8ad691800.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/here-today",
+      "legacyFile": "https:www3.homecine.tohere-today"
+    },
+    "a635930532eb76b4cfa473ce21e33677a17739a48ab427fd802efc3b6464c444": {
+      "file": "a635930532eb76b4cfa473ce21e33677a17739a48ab427fd802efc3b6464c444.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/?s=Battle%20Royale",
+      "legacyFile": "https:www3.homecine.tosBattlepercent20Royale"
+    },
+    "c3a02bb88489984cdd5be7396be52876c295c9e657e6f738ddb905d9da2b20b8": {
+      "file": "c3a02bb88489984cdd5be7396be52876c295c9e657e6f738ddb905d9da2b20b8.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/movie/3176?language=es",
+      "legacyFile": "https:api.themoviedb.org3movie3176languagees"
+    },
+    "c8a1e9dd37a3245468b95d771fcae7393d09e984197c0526c720900f26420aa6": {
+      "file": "c8a1e9dd37a3245468b95d771fcae7393d09e984197c0526c720900f26420aa6.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://api.themoviedb.org/3/tv/1402?language=es",
+      "legacyFile": "https:api.themoviedb.org3tv1402languagees"
+    },
+    "df806b1a6c4c5686b6bc269c4b468b5ffdcc93af920ac52329133ade05a94be8": {
+      "file": "df806b1a6c4c5686b6bc269c4b468b5ffdcc93af920ac52329133ade05a94be8.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/episode/marvel-the-punisher-temporada-1-capitulo-1",
+      "legacyFile": "https:www3.homecine.toepisodemarvel-the-punisher-temporada-1-capitulo-1"
+    },
+    "eeeaad1b2f9fc49abffb4f0250cc40c03040723b9b464353fc25d9a12831cc24": {
+      "file": "eeeaad1b2f9fc49abffb4f0250cc40c03040723b9b464353fc25d9a12831cc24.response.txt",
+      "kind": "response",
+      "method": "GET",
+      "url": "https://www3.homecine.to/?s=Aqu%C3%AD%20y%20ahora",
+      "legacyFile": "https:www3.homecine.tosAqupercentC3percentADpercent20ypercent20ahora"
+    }
+  },
+  "version": 1
+}
