@@ -4,6 +4,12 @@
 [![GitHub release](https://img.shields.io/github/v/release/webstreamr/webstreamr)](https://github.com/webstreamr/webstreamr/releases)
 ![GitHub License](https://img.shields.io/github/license/webstreamr/webstreamr)
 
+## Legacy Maintenance Notice
+
+WebStreamr Legacy is a community-maintained continuation of the archived WebStreamr project. It preserves the original MIT attribution and is not affiliated with the original maintainer, Stremio, ElfHosted, Hayduk, or any hosted add-on service unless those parties explicitly say otherwise.
+
+This fork is intended to be a self-hostable maintenance baseline, not a promise that every source or host will remain working at all times. Source and extractor fixes should include repeatable smoke evidence, and broken/flaky upstream routes should be documented honestly.
+
 [Stremio](https://www.stremio.com/) add-on which provides HTTP URLs from streaming websites.
 
 HTTP streams have limitations.
@@ -115,3 +121,5 @@ Free Webshare proxies seem to work with it.
 #### `TMDB_ACCESS_TOKEN`
 
 **Required**. TMDB access token to get information like title and year for content. Use the [API Read Access Token](https://www.themoviedb.org/settings/api).
+
+
