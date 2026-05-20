@@ -10,6 +10,8 @@ WebStreamr Legacy is a community-maintained continuation of the archived WebStre
 
 This fork is intended to be a self-hostable maintenance baseline, not a promise that every source or host will remain working at all times. Source and extractor fixes should include repeatable smoke evidence, and broken/flaky upstream routes should be documented honestly.
 
+The current fixture and live-smoke status is tracked in [`SOURCE_HEALTH.md`](./SOURCE_HEALTH.md). Fixture health and live upstream health are recorded separately so the fork does not overpromise reliability.
+
 [Stremio](https://www.stremio.com/) add-on which provides HTTP URLs from streaming websites.
 
 HTTP streams have limitations.
