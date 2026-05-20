@@ -17,9 +17,9 @@ change without notice.
 
 - Fixture baseline: `npm test` passed on Node 24 Linux on 2026-05-20.
 - Fixture scope: 54 test suites, 212 tests, 166 snapshots.
-- Live smoke baseline: VPS-side instance checks completed against deployed service endpoint in this
-  environment. Movix, CineHDPlus, Cuevana, HomeCine, and VerHdLink currently return `{"streams":[]}`
-  for tested IDs.
+- Live smoke baseline: VPS-side checks were previously run against a deployed instance using default config
+  behavior (no explicit locale keys in request path). That returned `{"streams":[]}` for Movix, CineHDPlus,
+  Cuevana, HomeCine, and VerHdLink test IDs, but did not validate locale-only sources.
 - Runtime baseline: a normal self-hosted instance requires `TMDB_ACCESS_TOKEN`.
 - Do not add private endpoints, credentials, or user-specific manifests to this
   document.
@@ -29,23 +29,23 @@ change without notice.
 | Source | ID | Content | Regions | Fixture tests | Live smoke | Last checked | Notes |
 |---|---:|---|---|---|---|---|---|
 | 4KHDHub | `4khdhub` | movie, series | multi, hi, ta, te | passing | not checked | fixture 2026-05-20 | Upstream route likely changes; verify with fresh title search before claiming live support. |
-| CineHDPlus | `cinehdplus` | series | es, mx | passing | failing | fixture 2026-05-20 | VPS live smoke returned HTTP 200 with `{\"streams\":[]}` for series/movie test IDs. |
-| Cuevana | `cuevana` | movie, series | es, mx | passing | failing | fixture 2026-05-20 | VPS live smoke returned HTTP 200 with `{\"streams\":[]}` for movie/series test IDs. |
+| CineHDPlus | `cinehdplus` | series | es, mx | passing | not checked | fixture 2026-05-20 | Prior smoke with default config (no locale keys) returned empty; locale-aware smoke (es/mx) not yet run. |
+| Cuevana | `cuevana` | movie, series | es, mx | passing | not checked | fixture 2026-05-20 | Prior smoke with default config (no locale keys) returned empty; locale-aware smoke (es/mx) not yet run. |
 | Einschalten | `einschalten` | movie | de | passing | not checked | fixture 2026-05-20 | Movie-only German source. |
 | Eurostreaming | `eurostreaming` | series | it | passing | not checked | fixture 2026-05-20 | Series-only Italian source. |
 | Frembed | `frembed` | movie, series | fr | passing | not checked | fixture 2026-05-20 | French source. |
 | FrenchCloud | `frenchcloud` | movie | fr | passing | not checked | fixture 2026-05-20 | Movie-only French source. |
 | HDHub4u | `hdhub4u` | movie, series | multi, gu, hi, ml, pa, ta, te | passing | not checked | fixture 2026-05-20 | Route-sensitive source; verify current host before marking live. |
-| HomeCine | `homecine` | movie, series | es, mx | passing | failing | fixture 2026-05-20 | VPS live smoke returned HTTP 200 with `{\"streams\":[]}` for movie/series test IDs. |
+| HomeCine | `homecine` | movie, series | es, mx | passing | not checked | fixture 2026-05-20 | Prior smoke with default config (no locale keys) returned empty; locale-aware smoke (es/mx) not yet run. |
 | KinoGer | `kinoger` | movie, series | de | passing | not checked | fixture 2026-05-20 | German source; also has a media extractor. |
 | Kokoshka | `kokoshka` | movie, series | al | passing | not checked | fixture 2026-05-20 | Albanian source. |
 | MegaKino | `megakino` | movie | de | passing | not checked | fixture 2026-05-20 | Movie-only German source. |
 | MeineCloud | `meinecloud` | movie | de | passing | not checked | fixture 2026-05-20 | Movie-only German source. |
 | MostraGuarda | `mostraguarda` | movie | it | passing | not checked | fixture 2026-05-20 | Movie-only Italian source. |
-| Movix | `movix` | movie, series | fr | passing | failing | fixture 2026-05-20 | VPS live smoke returned HTTP 200 with `{\"streams\":[]}` for movie/series test IDs. |
+| Movix | `movix` | movie, series | fr | passing | not checked | fixture 2026-05-20 | Prior smoke with default config (no locale keys) returned empty; locale-aware smoke (fr) not yet run. |
 | RgShows | `rgshows` | movie, series | multi | passing | not checked | fixture 2026-05-20 | Known to detect shared usage and block IPs; treat live health as private-instance dependent. |
 | StreamKiste | `streamkiste` | series | de | passing | not checked | fixture 2026-05-20 | Series-only German source. |
-| VerHdLink | `verhdlink` | movie | es, mx | passing | failing | fixture 2026-05-20 | VPS live smoke returned HTTP 200 with `{\"streams\":[]}` for movie test IDs. |
+| VerHdLink | `verhdlink` | movie | es, mx | passing | not checked | fixture 2026-05-20 | Prior smoke with default config (no locale keys) returned empty; locale-aware smoke (es/mx) not yet run. |
 | VidSrc | `vidsrc` | movie, series | multi | passing | not checked | fixture 2026-05-20 | Known to rate-limit heavily; keep as fallback unless live evidence says otherwise. |
 | VixSrc | `vixsrc` | movie, series | multi, it | passing | not checked | fixture 2026-05-20 | Multi/Italian source; also has a media extractor. |
 
@@ -90,3 +90,5 @@ When live checks are added, record only public-safe facts:
    captcha, host redirect, rate limit, or unsupported media host.
 5. Do not publish private deployment hostnames, access URLs, API tokens, proxy
    addresses, or user-specific manifests.
+6. When a source is locale-gated (es/mx/fr), include locale config in path for
+   evidence, e.g. `/{"fr":"on"}/stream/...` or `/{"es":"on","mx":"on"}/stream/...`.
