@@ -10,12 +10,15 @@ change without notice.
 - `failing`: verified failing in the recorded fixture test suite.
 - `missing`: no dedicated fixture test was found.
 - `not checked`: no current live smoke evidence has been recorded.
+- `blocked`: smoke probe could not reach upstream host from this check environment
+  (DNS/socket restrictions).
 
 ## Baseline
 
 - Fixture baseline: `npm test` passed on Node 24 Linux on 2026-05-20.
 - Fixture scope: 54 test suites, 212 tests, 166 snapshots.
-- Live smoke baseline: not checked for this first matrix pass.
+- Live smoke baseline: VPS-side instance checks were run on 2026-05-23 against locale-aware and
+  default paths where applicable.
 - Runtime baseline: a normal self-hosted instance requires `TMDB_ACCESS_TOKEN`.
 - Do not add private endpoints, credentials, or user-specific manifests to this
   document.
@@ -25,23 +28,23 @@ change without notice.
 | Source | ID | Content | Regions | Fixture tests | Live smoke | Last checked | Notes |
 |---|---:|---|---|---|---|---|---|
 | 4KHDHub | `4khdhub` | movie, series | multi, hi, ta, te | passing | not checked | fixture 2026-05-20 | Upstream route likely changes; verify with fresh title search before claiming live support. |
-| CineHDPlus | `cinehdplus` | series | es, mx | passing | not checked | fixture 2026-05-20 | Series-only Spanish/Mexico source. |
-| Cuevana | `cuevana` | movie, series | es, mx | passing | not checked | fixture 2026-05-20 | Spanish/Mexico source; route and player domains may drift. |
+| CineHDPlus | `cinehdplus` | series | es, mx | passing | passing | fixture 2026-05-23 | Locale-aware smoke returned HTTP 200 with 1 stream for `tmdb:42009:2:3` using `{"es":"on","mx":"on"}`; source returned expected branded stream metadata. |
+| Cuevana | `cuevana` | movie, series | es, mx | passing | failing | fixture 2026-05-23 | VPS live smoke returned HTTP 200 with `{"streams":[]}` for movie/series sample IDs (`tmdb:1402:1:1`, `tmdb:559969`) with `{"es":"on","mx":"on"}`, `{"es":"on"}`, and `{"mx":"on"}`. |
 | Einschalten | `einschalten` | movie | de | passing | not checked | fixture 2026-05-20 | Movie-only German source. |
 | Eurostreaming | `eurostreaming` | series | it | passing | not checked | fixture 2026-05-20 | Series-only Italian source. |
 | Frembed | `frembed` | movie, series | fr | passing | not checked | fixture 2026-05-20 | French source. |
 | FrenchCloud | `frenchcloud` | movie | fr | passing | not checked | fixture 2026-05-20 | Movie-only French source. |
 | HDHub4u | `hdhub4u` | movie, series | multi, gu, hi, ml, pa, ta, te | passing | not checked | fixture 2026-05-20 | Route-sensitive source; verify current host before marking live. |
-| HomeCine | `homecine` | movie, series | es, mx | passing | not checked | fixture 2026-05-20 | Spanish/Mexico source. |
+| HomeCine | `homecine` | movie, series | es, mx | passing | failing | fixture 2026-05-23 | VPS live smoke returned HTTP 200 with `{"streams":[]}` for movie/series sample IDs (`tmdb:1402:1:1`, `tmdb:559969`). |
 | KinoGer | `kinoger` | movie, series | de | passing | not checked | fixture 2026-05-20 | German source; also has a media extractor. |
 | Kokoshka | `kokoshka` | movie, series | al | passing | not checked | fixture 2026-05-20 | Albanian source. |
 | MegaKino | `megakino` | movie | de | passing | not checked | fixture 2026-05-20 | Movie-only German source. |
 | MeineCloud | `meinecloud` | movie | de | passing | not checked | fixture 2026-05-20 | Movie-only German source. |
 | MostraGuarda | `mostraguarda` | movie | it | passing | not checked | fixture 2026-05-20 | Movie-only Italian source. |
-| Movix | `movix` | movie, series | fr | passing | not checked | fixture 2026-05-20 | French API-backed source. |
+| Movix | `movix` | movie, series | fr | passing | failing | fixture 2026-05-23 | VPS live smoke returned HTTP 200 with `{"streams":[]}` for `tmdb:42009:4:2` (default and `{"fr":"on"}`) and `tmdb:3176` (fr). |
 | RgShows | `rgshows` | movie, series | multi | passing | not checked | fixture 2026-05-20 | Known to detect shared usage and block IPs; treat live health as private-instance dependent. |
 | StreamKiste | `streamkiste` | series | de | passing | not checked | fixture 2026-05-20 | Series-only German source. |
-| VerHdLink | `verhdlink` | movie | es, mx | passing | not checked | fixture 2026-05-20 | Movie-only Spanish/Mexico source. |
+| VerHdLink | `verhdlink` | movie | es, mx | passing | passing | fixture 2026-05-23 | Locale-aware smoke returned HTTP 200 with 2 streams for `tt0120338` using `{"es":"on","mx":"on"}`; `tt12345678` still returned `{"streams":[]}`. |
 | VidSrc | `vidsrc` | movie, series | multi | passing | not checked | fixture 2026-05-20 | Known to rate-limit heavily; keep as fallback unless live evidence says otherwise. |
 | VixSrc | `vixsrc` | movie, series | multi, it | passing | not checked | fixture 2026-05-20 | Multi/Italian source; also has a media extractor. |
 
